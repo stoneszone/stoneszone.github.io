@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="author" content="Mike Stegeman" />
+        <meta charset="utf-8" />
+        <link rel="alternate" type="application/atom+xml"
+            title="Atom 1.0"
+            href="http://thestegemans.com/atom.xml"
+        />
+        <link rel="alternate" type="application/rss+xml"
+            title="RSS 2.0"
+            href="http://thestegemans.com/rss.xml"
+        />
+        <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        <title>{{ page.title }}</title>
+        <script type="text/javascript">
+        <!--
+            function init() {
+                var loc = window.location.pathname;
+                if (loc.match(/^\/(index\.html)?$/)) {
+                    document.getElementById('nav_blog').className = 'active';
+                }
+                else if (loc.match(/^\/about\/(index\.html)?$/)) {
+                    document.getElementById('nav_about').className = 'active';
+                }
+                else if (loc.match(/^\/projects\/(index\.html)?$/)) {
+                    document.getElementById('nav_projects').className = 'active';
+                }
+                else if (loc.match(/^\/5calc/)) {
+                    document.getElementById('nav_5calc').className = 'active';
+                }
+            }
+        -->
+        </script>
+    </head>
+    <body onload="init()">
+        <header id="banner" class="body">
+        <h1>Mike Stegeman's Blog</h1>
+        <br />
+        <h3>programming and linux knowledge</h3>
+        <nav>
+        <ul>
+            <li id="nav_blog"><a href="/">/blog</a></li>
+            <li id="nav_about"><a href="/about/">/about</a></li>
+            <li id="nav_projects"><a href="/projects/">/projects</a></li>
+            <li id="nav_5calc"><a href="/5calc/basic.html">/5calc</a></li>
+        </ul>
+        </nav>
+        </header>
+        <section id="content" class="body">
+        {{ content }}
+        </section>
+        <section id="extras" class="body">
+        <div class="taglist">
+            <h2>tags</h2>
+            <ul>
+                {% for tag in site.tags %}
+                    <li><a href="/tag/{{ tag.first }}/">{{ tag.first }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="blogroll">
+            <h2>blogroll</h2>
+            <ul>
+                <!--
+                <li><a href="#" rel="external">blog1</a></li>
+                -->
+            </ul>
+        </div>
+        <div class="social">
+            <h2>social</h2>
+            <ul>
+                <li><a href="http://github.com/mrstegeman" rel="me">github</a></li>
+                <li><a href="https://plus.google.com/101758203509357498635" rel="me">google+</a></li>
+                <li><a href="http://thestegemans.com/rss.xml" rel="alternate">rss</a></li>
+                <li><a href="http://thestegemans.com/atom.xml" rel="alternate">atom</a></li>
+            </ul>
+        </div>
+        </section>
+        <footer id="contentinfo" class="body">
+        <address id="about" class="vcard body">
+            <span class="primary">
+                <strong><a href="#" class="fn url">Mike Stegeman</a></strong>
+                <span class="email">mike@thestegemans.com</span>
+            </span>
+            <div id="siteinfo">
+                powered by <a href="http://jekyllrb.com/">jekyll</a> and <a href="http://www.vim.org/">vim</a>
+                <br />
+                &copy; 2011-2012
+            </div>
+        </address>
+        </footer>
+    </body>
+</html>

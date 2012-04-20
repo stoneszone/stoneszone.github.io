@@ -1,0 +1,23 @@
+---
+layout: layout
+---
+
+<div class="content">
+  <div id="post">
+    <span id="title">{{ page.title }}</span>
+    <span id="postdate">{{ page.date | date: "%d %b %Y %H:%M" }}</span>
+    {{ content }}
+    <div id="postinfo">
+      <div id="postauthor"><strong>Posted by: </strong>Mike Stegeman</div>
+      <div id="posttags"><strong>Tags: </strong>
+        {% for tag in page.tags %}
+        <a href="/tag/{{ tag }}/">{{ tag }}</a> 
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% if page.comments %}
+{% include disqus.html %}
+{% endif %}

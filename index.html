@@ -1,10 +1,49 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Envy Labs</title>
-</head>
+---
+layout: layout
+title: Mike Stegeman's Blog
+---
 
-<body>
-<h1>Envy Labs</h1>
-</body>
-</html>
+<ol id="posts-list" class="hfeed">
+    {% for post in paginator.posts %}
+    <li>
+    <article class="hentry">
+    <header>
+    <h2 class="entry-title">
+        <a rel="bookmark" title="Permalink to '{{ post.title }}'" href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    </header>
+    <footer class="post-info">
+    <abbr class="published" title="{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ%:z" }}">{{ post.date | date: "%B %e, %Y" }}</abbr>
+    <address class="vcard author">
+        By <a class="url fn" href="#">Mike Stegeman</a>
+    </address>
+    </footer>
+    <div class="entry-content">
+        <strong>Tags: </strong>
+        {% for tag in post.tags %}
+        <a href="/tag/{{ tag }}/">{{ tag }}</a> 
+        {% endfor %}
+    </div>
+    </article>
+    </li>
+    {% endfor %}
+</ol>
+
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <a href="/">&lt;&lt;</a>
+        {% else %}
+        <a href="/page{{paginator.previous_page}}" class="previous">&lt;&lt;</a>
+        {% endif %}
+    {% else %}
+    <span class="previous">&lt;&lt;</span>
+    {% endif %}
+    <span class="page_number "> <strong>{{ paginator.page }}</strong> of <strong>{{ paginator.total_pages }}</strong> </span>
+    {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="next ">&gt;&gt;</a>
+    {% else %}
+    <span class="next ">&gt;&gt;</span>
+    {% endif %}
+</div>

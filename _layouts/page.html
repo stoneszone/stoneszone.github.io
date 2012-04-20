@@ -1,0 +1,14 @@
+---
+layout: layout
+---
+
+<div class="content">
+  <div id="post">
+    <span id="title">{{ page.title }}</span>
+    {{ content }}
+  </div>
+</div>
+
+{% if page.comments %}
+{% include disqus.html %}
+{% endif %}

@@ -1,0 +1,341 @@
+@import url('/css/reset.css');
+@import url('/css/syntax.css');
+
+/* http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/ */
+/***** Global *****/
+/* Body */
+body {
+    background: #F5F4EF;
+    color: #000305;
+    font-size: 87.5%; /* Base font size: 14px */
+    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.429;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+/* Headings */
+h2 {font-size: 1.571em} /* 22px */
+h3 {font-size: 1.429em} /* 20px */
+h4 {font-size: 1.286em} /* 18px */
+h5 {font-size: 1.143em} /* 16px */
+h6 {font-size: 1em} /* 14px */
+
+h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    line-height: 1.1;
+    margin-bottom: .8em;
+}
+
+/* Anchors */
+a {outline: 0;}
+a img {border: 0px; text-decoration: none;}
+a:link, a:visited {
+    color: #2759AF;
+    padding: 0 1px;
+    text-decoration: underline;
+}
+a:hover, a:active {
+    background-color: #2759AF;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #333;
+}
+
+/* Paragraphs */
+p {margin-bottom: 1.143em;}
+* p:last-child {margin-bottom: 0;}
+
+strong, b {font-weight: bold;}
+em, i {font-style: italic;}
+
+::-moz-selection {background: #F6CF74; color: #fff;}
+::selection {background: #F6CF74; color: #fff;}
+
+/* Lists */
+ul {
+    list-style: outside disc;
+    margin: 1em 0 1.5em 1.5em;
+}
+
+ol {
+    list-style: outside decimal;
+    margin: 1em 0 1.5em 1.5em;
+}
+
+dl {margin: 0 0 1.5em 0;}
+dt {font-weight: bold;}
+dd {margin-left: 1.5em;}
+
+/* Quotes */
+blockquote {font-style: italic;}
+cite {}
+
+q {}
+
+/* Tables */
+table {margin: .5em auto 1.5em auto; width: 98%;}
+
+/* Thead */
+thead th {padding: .5em .4em; text-align: left;}
+thead td {}
+
+/* Tbody */
+tbody td {padding: .5em .4em;}
+tbody th {}
+
+tbody .alt td {}
+tbody .alt th {}
+
+/* Tfoot */
+tfoot th {}
+tfoot td {}
+
+.body {clear: both; margin: 0 auto; width: 800px;}
+img.right figure.right {float: right; margin: 0 0 2em 2em;}
+img.left, figure.left {float: right; margin: 0 0 2em 2em;}
+
+/***** Header *****/
+#banner {
+    margin: 0 auto;
+    padding: 2.5em 0 0 0;
+}
+
+/* Banner */
+#banner h1 {font-size: 3.571em; line-height: .6;}
+#banner h1 a:link, #banner h1 a:visited {
+    color: #000305;
+    display: block;
+    font-weight: bold;
+    margin: 0 0 .6em .2em;
+    text-decoration: none;
+    width: 427px;
+}
+#banner h1 a:hover, #banner h1 a:active {
+    background: none;
+    color: #2759AF;
+    text-shadow: none;
+}
+
+#banner h1 strong {font-size: 0.36em; font-weight: normal;}
+
+/* Main Nav */
+#banner nav {
+    background: #000305;
+    font-size: 1.143em;
+    height: 40px;
+    line-height: 30px;
+    margin: 0 auto 2em auto;
+    padding: 0;
+    text-align: center;
+    width: 800px;
+
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
+#banner nav li {float: left; display: inline; margin: 0;}
+
+#banner nav a:link, #banner nav a:visited {
+    color: #fff;
+    display: inline-block;
+    height: 30px;
+    padding: 5px 1.5em;
+    text-decoration: none;
+}
+#banner nav a:hover, #banner nav a:active,
+#banner nav .active a:link, #banner nav .active a:visited {
+    background: #2759AF;
+    color: #fff;
+    text-shadow: none !important;
+}
+
+#banner nav li:first-child a {
+    border-top-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+
+    border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+}
+
+/***** Header *****/
+#content {
+    background: #fff;
+    margin-bottom: 2em;
+    overflow: hidden;
+    padding: 20px 20px;
+    width: 760px;
+
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border: 1px solid #2759AF;
+}
+
+/***** Header *****/
+#extras {margin: 0 auto 3em auto; overflow: hidden;}
+
+#extras ul {list-style: none; margin: 0;}
+#extras li {border-bottom: 1px solid #fff;}
+#extras h2 {
+    color: #2759AF;
+    font-size: 1.429em;
+    margin-bottom: .25em;
+    padding: 0 3px;
+}
+
+#extras a:link, #extras a:visited {
+    display: block;
+    border-bottom: 1px solid #F4E3E3;
+    text-decoration: none;
+    padding: .3em .25em;
+}
+
+#extras .taglist {
+    float: left;
+    width: 250px;
+    padding-left: 20px;
+}
+
+/* Blogroll */
+#extras .blogroll {
+    float: left;
+    width: 250px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/* Social */
+#extras .social {
+    float: right;
+    width: 250px;
+    padding-right: 20px;
+}
+
+#extras li:last-child, /* last <li>*/
+#extras li:last-child a {border: 0;} /* <a> of last <li> */
+
+#extras div[class='social'] a {
+    background-repeat: no-repeat;
+    background-position: 3px 6px;
+    padding-left: 25px;
+}
+
+/* Icons */
+.social a[href*='github.com'] {background-image: url('/img/github.png');}
+.social a[href*='plus.google.com'] {background-image: url('/img/plus.png');}
+.social a[href*='rss.xml'] {background-image: url('/img/feed.png');}
+.social a[href*='atom.xml'] {background-image: url('/img/feed.png');}
+
+/***** Header *****/
+#about {
+    background: #fff;
+    font-style: normal;
+    margin-bottom: 2em;
+    overflow: hidden;
+    padding: 20px;
+    text-align: left;
+    width: 760px;
+
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border: 1px solid #2759AF;
+}
+
+#about .primary {float: left; width: 165px;}
+#about .primary strong {color: #2759AF; display: block; font-size: 1.286em;}
+#about .photo {float: left; margin: 5px 20px;}
+
+#about .url:link, #about .url:visited {text-decoration: none;}
+
+#about .bio {float: right; width: 500px;}
+#siteinfo {float: right; width: 500px; text-align: right; }
+
+/* Blog */
+.hentry {
+    border-bottom: 1px solid #eee;
+    padding: 1.5em 0;
+}
+li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
+#content > .hentry {padding: 1em 0;}
+
+.entry-title {font-size: 1.429em; margin-bottom: 0;}
+.entry-title a:link, .entry-title a:visited {text-decoration: none;}
+
+.hentry .post-info * {font-style: normal;}
+
+/* Content */
+.hentry footer {margin-bottom: 2em; border-right: 1px solid #F4E3E3;}
+.hentry footer address {display: inline;}
+#posts-list footer address {display: block;}
+
+/* Blog Index */
+#posts-list {list-style: none; margin: 0;}
+#posts-list .hentry {padding-left: 200px; position: relative;}
+#posts-list footer {
+    left: 10px;
+    position: absolute;
+    top: 1.5em;
+    width: 170px;
+}
+
+#posts-list .hentry:hover {
+    background: #2759AF;
+    color: #fff;
+}
+#posts-list .hentry:hover a:link, #posts-list .hentry:hover a:visited {
+    color: #F6CF74;
+    text-shadow: 1px 1px 1px #333;
+}
+
+pre {
+    border: 1px dashed #333;
+    background: #F5F4EF;
+    padding: .5em;
+    margin-bottom: 1em;
+    font-size: 85%;
+    font-family: Consolas, monospace;
+    overflow-x: auto;
+}
+
+#title {
+    font-size: 2.25em;
+    font-weight: bold;
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: #2759AF;
+}
+
+#postdate {
+    text-align: center;
+    color: #999;
+    font-size: 1.5em;
+    display: block;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#postinfo {
+    width: 100%;
+    padding-bottom: 20px;
+    border-top: 1px solid #F4E3E3;
+}
+
+#postauthor {
+    float: left;
+}
+
+#posttags {
+    text-align: right;
+}
+
+.pagination {
+    text-align: center;
+}

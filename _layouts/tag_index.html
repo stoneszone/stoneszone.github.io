@@ -1,0 +1,12 @@
+---
+layout: layout
+---
+
+<span id="title"> Posts tagged as `{{ page.tag }}`</span>
+<ul>
+{% for post in site.tags[page.tag] %}
+  <li style="padding-bottom:.4em;">
+    <a href="{{post.url}}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
