@@ -35,64 +35,77 @@
         -->
         </script>
     </head>
+    
+    <!-- body --------------------------------------------------------------------------------------------------- -->
     <body onload="init()">
-        <header id="banner" class="body">
+      <!-- header  ---------------------------------------------------------------------------------------------- -->
+      <header id="banner" class="body">
         <h1>Lei Shi's Homepage</h1>
         <br />
         <nav>
-        <ul>
-            <li id="nav_blog"><a href="/">/blog</a></li>
-            <li id="nav_about"><a href="/about/">/about</a></li>
-            <li id="nav_projects"><a href="/projects/">/research</a></li>
-            <li id="nav_publication"><a href="/publication/">/publication</a></li>
-            <li id="nav_notes"><a href="/notes/">/notes</a></li>
-            <li id="nav_hobby"><a href="/hobby/">/hobby</a></li>
-            <li id="nav_link"><a href="/link/">/link</a></li>
-        </ul>
+          <ul>
+	    <li id="nav_blog"><a href="/">/blog</a></li>
+	    <li id="nav_about"><a href="/about/">/about</a></li>
+	    <li id="nav_projects"><a href="/projects/">/research</a></li>
+	    <li id="nav_publication"><a href="/publication/">/publication</a></li>
+	    <li id="nav_notes"><a href="/notes/">/notes</a></li>
+	    <li id="nav_hobby"><a href="/hobby/">/hobby</a></li>
+	    <li id="nav_link"><a href="/link/">/link</a></li>
+          </ul>
         </nav>
-        </header>
-        <section id="content" class="body">
+      </header>
+      <!-- ----------------------------------------------------------------------------------------------------- -->
+
+      <!-- ----------------------------------------------------------------------------------------------------- -->
+      <section id="content" class="body">
         {{ content }}
-        </section>
-        <section id="extras" class="body">
+      </section>
+      
+      <!-- content  -->
+      <section id="extras" class="body">
         <div class="taglist">
-            <h2>tags</h2>
-            <ul>
-                {% for tag in site.tags %}
-                    <li><a href="/tag/{{ tag.first }}/">{{ tag.first }}</a></li>
-                {% endfor %}
-            </ul>
+          <h2>tags</h2>
+          <ul>
+            {% for tag in site.tags %}
+            <li><a href="/tag/{{ tag.first }}/">{{ tag.first }}</a></li>
+            {% endfor %}
+          </ul>
         </div>
         <div class="blogroll">
-            <h2>blogroll</h2>
-            <ul>
-                <!--
+          <h2>blogroll</h2>
+          <ul>
+            <!--
                 <li><a href="#" rel="external">blog1</a></li>
                 -->
-            </ul>
+          </ul>
         </div>
         <div class="social">
-            <h2>social</h2>
-            <ul>
-                <li><a href="http://github.com/stoneszone" rel="me">github</a></li>
-                <li><a href="https://plus.google.com/101758203509357498635" rel="me">google+</a></li>
-                <li><a href="http://lshi.org/rss.xml" rel="alternate">rss</a></li>
-                <li><a href="http://lshi.org/atom.xml" rel="alternate">atom</a></li>
-            </ul>
+          <h2>social</h2>
+          <ul>
+            <li><a href="http://github.com/stoneszone" rel="me">github</a></li>
+            <li><a href="https://plus.google.com/102317532772173904991" rel="me">google+</a></li>
+            <li><a href="http://lshi.org/rss.xml" rel="alternate">rss</a></li>
+            <li><a href="http://lshi.org/atom.xml" rel="alternate">atom</a></li>
+          </ul>
         </div>
-        </section>
-        <footer id="contentinfo" class="body">
+      </section>
+      <!-- ----------------------------------------------------------------------------------------------------- -->
+        
+      <!-- ----------------------------------------------------------------------------------------------------- -->
+      <footer id="contentinfo" class="body">
         <address id="about" class="vcard body">
-            <span class="primary">
-                <strong><a href="#" class="fn url">Lei Shi</a></strong>
-                <span class="email">leishi@iastate.edu</span>
-            </span>
-            <div id="siteinfo">
-                powered by <a href="http://jekyllrb.com/">jekyll</a> and <a href="http://www.gnu.org/software/emacs/">Emacs</a>
-                <br />
-                &copy; 2011-2012
-            </div>
+          <span class="primary">
+            <strong><a href="#" class="fn url">Lei Shi</a></strong>
+            <span class="email">leishi@iastate.edu</span>
+          </span>
+          <div id="siteinfo">
+            powered by <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://github.com/">github.com</a>  and <a href="http://www.gnu.org/software/emacs/">Emacs</a>
+            <br />
+            design based on <a href="http://thestegemans.com/">Mike Stegeman</a> &copy; 2011-2012
+          </div>
         </address>
-        </footer>
+      </footer>
+      <!-- ----------------------------------------------------------------------------------------------------- -->
+
     </body>
 </html>
