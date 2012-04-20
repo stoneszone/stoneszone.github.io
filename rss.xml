@@ -4,10 +4,10 @@ layout: nil
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mike Stegeman's Blog</title>
-    <link>http://thestegemans.com/</link>
-    <atom:link href="http://thestegemans.com/rss.xml" rel="self" type="application/rss+xml" />
-    <description>programming and linux knowledge</description>
+    <title>Lei Shi's Blog</title>
+    <link>http://lshi.org/</link>
+    <atom:link href="http://lshi.org/rss.xml" rel="self" type="application/rss+xml" />
+    <description>computational fluid dynamics, aerospace engineering, phd, programming and linux knowledge</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
@@ -15,10 +15,10 @@ layout: nil
     {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
-      <link>http://thestegemans.com{{ post.url }}</link>
+      <link>http://lshi.org{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>mike@thestegemans.com (Mike Stegeman)</author>
-      <guid>http://thestegemans.com{{ post.id }}</guid>
+      <author>leishi@iastate.edu (Lei Shi)</author>
+      <guid>http://lshi.org{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}

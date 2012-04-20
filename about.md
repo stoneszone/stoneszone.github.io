@@ -5,10 +5,10 @@ layout: page
 
 ## Education
 
-__University of Missouri, Columbia, MO__  
-__Graduated:__ May 2010, Summa Cum Laude  
-__Degree:__ Bachelor of Science in Computer Engineering  
-__Minors:__ Mathematics, Computer Science 
+__Nanjing University of Aeronautics and Astronautics, Nanjing, China__  
+__Graduated:__ 2009
+__Degree:__ Ph.D.
+__Major:__ Theory and Engineering of Aerospace propulsion
 
 ## Computer Experience
 ### Programming Languages

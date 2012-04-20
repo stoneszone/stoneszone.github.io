@@ -4,25 +4,25 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>Mike Stegeman's blog</title>
-  <link href="http://thestegemans.com/"/>
-  <link type="application/atom+xml" rel="self" href="http://thestegemans.com/atom.xml"/>
+  <title>Lei Shi's homepage</title>
+  <link href="http://lshi.org/"/>
+  <link type="application/atom+xml" rel="self" href="http://lshi.org/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://thestegemans.com/</id>
+  <id>http://lshi.org/</id>
   <author>
-    <name>Mike Stegeman</name>
-    <email>mike@thestegemans.com</email>
+    <name>Lei Shi</name>
+    <email>leishi@iastate.edu</email>
   </author>
 
   {% for post in site.posts %}
   <entry>
-    <id>http://thestegemans.com{{ post.id }}</id>
+    <id>http://lshi.org{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://thestegemans.com{{ post.url }}"/>
     <title>{{ post.title }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>Mike Stegeman</name>
-      <uri>http://thestegemans.com/</uri>
+      <name>Lei Shi</name>
+      <uri>http://lshi.org/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
