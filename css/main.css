@@ -15,13 +15,6 @@ body {
     text-align: left;
 }
 
-#contentinfo {
-    width: 95%;
-    border-top: 2px solid #AAA;
-    text-align: center;
-    font-size: 10pt;
-    color: #AAA;
-}
 
 /* Headings */
 h2 {font-size: 1.571em} /* 22px */
@@ -284,7 +277,14 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 .hentry .post-info * {font-style: normal;}
 
 /* Content */
-.hentry footer {margin-bottom: 2em; border-right: 1px solid #F4E3E3;}
+/* .hentry footer {margin-bottom: 2em; border-right: 1px solid #F4E3E3;} */
+.hentry footer {
+    border-top: 2px solid #AAA;
+    text-align: center;
+    font-size: 10pt;
+    color: #AAA;
+}
+
 .hentry footer address {display: inline;}
 #posts-list footer address {display: block;}
 
