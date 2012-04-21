@@ -247,7 +247,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
-    border: 1px solid #2759AF;
+/*    border: 1px solid #2759AF; */
 }
 
 #about .primary {float: left; width: 165px;}
@@ -278,7 +278,7 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 
 /* Content */
 /* .hentry footer {margin-bottom: 2em; border-right: 1px solid #F4E3E3;} */
-.hentry footer {
+footer{
     border-top: 2px solid #AAA;
     text-align: center;
     font-size: 10pt;
