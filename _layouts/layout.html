@@ -1,119 +1,119 @@
 <!DOCTYPE HTML>
 
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <meta name="author" content="Lei Shi" />
-        <meta charset="utf-8" />
-        <link rel="alternate" type="application/atom+xml"
-            title="Atom 1.0"
-            href="http://lshi.org/atom.xml"
-        />
-        <link rel="alternate" type="application/rss+xml"
-            title="RSS 2.0"
-            href="http://lshi.org/rss.xml"
-        />
-        <link rel="stylesheet" type="text/css" href="/css/main.css" />
-        <title>{{ page.title }}</title>
-        <script type="text/javascript">
-        <!--
-            function init() {
-                var loc = window.location.pathname;
-                if (loc.match(/^\/(index\.html)?$/)) {
-                    document.getElementById('nav_blog').className = 'active';
-                }
-                else if (loc.match(/^\/about\/(index\.html)?$/)) {
-                    document.getElementById('nav_about').className = 'active';
-                }
-                else if (loc.match(/^\/projects\/(index\.html)?$/)) {
-                    document.getElementById('nav_projects').className = 'active';
-                }
-                else if (loc.match(/^\/5calc/)) {
-                    document.getElementById('nav_5calc').className = 'active';
-                }
-            }
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Lei Shi" />
+    <meta charset="utf-8" />
+    <link rel="alternate" type="application/atom+xml"
+          title="Atom 1.0"
+          href="http://lshi.org/atom.xml"
+          />
+    <link rel="alternate" type="application/rss+xml"
+          title="RSS 2.0"
+          href="http://lshi.org/rss.xml"
+          />
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <title>{{ page.title }}</title>
+    <script type="text/javascript">
+      <!--
+          function init() {
+          var loc = window.location.pathname;
+          if (loc.match(/^\/(index\.html)?$/)) {
+          document.getElementById('nav_blog').className = 'active';
+          }
+          else if (loc.match(/^\/about\/(index\.html)?$/)) {
+          document.getElementById('nav_about').className = 'active';
+          }
+          else if (loc.match(/^\/projects\/(index\.html)?$/)) {
+          document.getElementById('nav_projects').className = 'active';
+          }
+          else if (loc.match(/^\/5calc/)) {
+          document.getElementById('nav_5calc').className = 'active';
+          }
+          }
         -->
-        </script>
-    </head>
+    </script>
+  </head>
     
-    <!-- body --------------------------------------------------------------------------------------------------- -->
-    <body onload="init()">
-      <!-- header  ---------------------------------------------------------------------------------------------- -->
-      <header id="banner" class="body">
-        <h1>Lei Shi's Homepage</h1>
-        <br />
-        <nav>
-          <ul>
-	    <li id="nav_home"><a href="/">home</a></li>
-	    <li id="nav_resume"><a href="/resume/">resume</a></li>
-	    <li id="nav_research"><a href="/research/">research</a></li>
-	    <li id="nav_publications"><a href="/publications/">publications</a></li>
-	    <li id="nav_notes"><a href="/notes/">notes</a></li>
-	    <li id="nav_blog"><a href="/blog/">blog</a></li>
-	    <li id="nav_hobby"><a href="/hobby/">hobby</a></li>
-	    <li id="nav_link"><a href="/link/">link</a></li>
-          </ul>
-        </nav>
-      </header>
-      <!-- ----------------------------------------------------------------------------------------------------- -->
+  <!-- body --------------------------------------------------------------------------------------------------- -->
+  <body onload="init()">
+    <!-- header  ---------------------------------------------------------------------------------------------- -->
+    <header id="banner" class="body">
+      <h1>Lei Shi's Homepage</h1>
+      <br />
+      <nav>
+        <ul>
+	  <li id="nav_home"><a href="/">home</a></li>
+	  <li id="nav_resume"><a href="/resume/">resume</a></li>
+	  <li id="nav_research"><a href="/research/">research</a></li>
+	  <li id="nav_publications"><a href="/publications/">publications</a></li>
+	  <li id="nav_notes"><a href="/notes/">notes</a></li>
+	  <li id="nav_blog"><a href="/blog/">blog</a></li>
+	  <li id="nav_hobby"><a href="/hobby/">hobby</a></li>
+	  <li id="nav_link"><a href="/link/">link</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- ----------------------------------------------------------------------------------------------------- -->
 
-      <!-- ----------------------------------------------------------------------------------------------------- -->
-      <section id="content" class="body">
-        {{ content }}
-      </section>
-
-     <!-- content  -->
-      <section id="extras" class="body">
-        <div class="taglist">
-          <h2>tags</h2>
-          <ul>
-            {% for tag in site.tags %}
-            <li><a href="/tag/{{ tag.first }}/">{{ tag.first }}</a></li>
-            {% endfor %}
-          </ul>
+    <!-- ----------------------------------------------------------------------------------------------------- -->
+    <section id="content" class="body">
+      {{ content }}
+    </section>
+    
+    <!-- content  -->
+    <section id="extras" class="body">
+      <div class="taglist">
+        <h2>tags</h2>
+        <ul>
+          {% for tag in site.tags %}
+          <li><a href="/tag/{{ tag.first }}/">{{ tag.first }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="blogroll">
+        <h2>blogroll</h2>
+        <ul>
+          <!--
+              <li><a href="#" rel="external">blog1</a></li>
+              -->
+        </ul>
+      </div>
+      <div class="social">
+        <h2>social</h2>
+        <ul>
+          <li><a href="http://github.com/stoneszone" rel="me">github</a></li>
+          <li><a href="https://plus.google.com/102317532772173904991" rel="me">google+</a></li>
+          <li><a href="http://lshi.org/rss.xml" rel="alternate">rss</a></li>
+          <li><a href="http://lshi.org/atom.xml" rel="alternate">atom</a></li>
+        </ul>
+      </div>
+    </section>
+    <!-- ----------------------------------------------------------------------------------------------------- -->
+    
+    <!-- ----------------------------------------------------------------------------------------------------- -->
+    <footer id="contentinfo" class="body">
+      <address id="about" class="vcard body">
+        <span class="primary">
+          <strong><a href="#" class="fn url">Lei Shi</a></strong>
+          <span class="email">leishi@iastate.edu</span>
+        </span>
+	
+        <div id="siteinfo">
+          powered by <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://github.com/">github.com</a>  and <a href="http://www.gnu.org/software/emacs/">Emacs</a>
+          <br />
+          design by <a href="http://thestegemans.com/">Mike Stegeman</a> &copy; 2011-2012
         </div>
-        <div class="blogroll">
-          <h2>blogroll</h2>
-          <ul>
-            <!--
-                <li><a href="#" rel="external">blog1</a></li>
-                -->
-          </ul>
-        </div>
-        <div class="social">
-          <h2>social</h2>
-          <ul>
-            <li><a href="http://github.com/stoneszone" rel="me">github</a></li>
-            <li><a href="https://plus.google.com/102317532772173904991" rel="me">google+</a></li>
-            <li><a href="http://lshi.org/rss.xml" rel="alternate">rss</a></li>
-            <li><a href="http://lshi.org/atom.xml" rel="alternate">atom</a></li>
-          </ul>
-        </div>
-      </section>
-      <!-- ----------------------------------------------------------------------------------------------------- -->
-        
-      <!-- ----------------------------------------------------------------------------------------------------- -->
-      <footer id="contentinfo" class="body">
-        <address id="about" class="vcard body">
-          <span class="primary">
-            <strong><a href="#" class="fn url">Lei Shi</a></strong>
-            <span class="email">leishi@iastate.edu</span>
-          </span>
-	  
-          <div id="siteinfo">
-            powered by <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://github.com/">github.com</a>  and <a href="http://www.gnu.org/software/emacs/">Emacs</a>
-            <br />
-            design based on <a href="http://thestegemans.com/">Mike Stegeman</a> &copy; 2011-2012
-          </div>
-
-	  <div id="visitor">
-	    <script type="text/javascript" src="http://jd.revolvermaps.com/t.js"></script>
-	    <script type="text/javascript">rmt_ki101('0',60,'5tj4602eib9','ff0000');</script>
-	  </div>
-
-        </address>
-      </footer>
-      <!-- ----------------------------------------------------------------------------------------------------- -->
-
-    </body>
+	
+	<div id="visitor">
+	  <script type="text/javascript" src="http://jd.revolvermaps.com/t.js"></script>
+	  <script type="text/javascript">rmt_ki101('0','40','5tj4602eib9','ff0000');</script>
+	</div>
+	
+      </address>
+    </footer>
+    <!-- ----------------------------------------------------------------------------------------------------- -->
+    
+  </body>
 </html>
