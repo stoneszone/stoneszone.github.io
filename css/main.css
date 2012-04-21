@@ -256,6 +256,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
 #about .bio {float: right; width: 500px;}
 #siteinfo {float: right; width: 500px; text-align: right; }
+#visitor  {float: right; width: 500px; text-align: right; }
 
 /* Blog */
 .hentry {
