@@ -255,7 +255,10 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 #about .url:link, #about .url:visited {text-decoration: none;}
 
 #about .bio {float: right; width: 500px;}
-#visitor  {float: right; width: 500px; text-align: center; }
+#visitor  {margin-left: auto;
+	   margin-right: auto; 
+	   width: 500px; 
+	   text-align: center;}
 #siteinfo {float: right; width: 500px; text-align: right; }
 
 /* Blog */
