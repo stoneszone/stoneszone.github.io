@@ -4,7 +4,10 @@ layout: page
 
 <section id="about" class="body">
   <figure class="photo">
-    <img src="img/lei.png" alt="Lei Shi" width="300" height="300"/>
+    {% assign image_folder = 'lei' %}
+    {% assign number_of_images = 3 %}
+    {% include amc/make_gallery %}
+    <!-- <img src="img/lei.png" alt="Lei Shi" width="300" height="300"/> -->
   </figure>
 
   <span class="primary">
@@ -25,5 +28,3 @@ layout: page
     -- "A Treatise on Painting" by Leonardo da Vinci
   </span>
 </section>
-
-

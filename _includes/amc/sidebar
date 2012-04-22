@@ -1,0 +1,33 @@
+<div class="sidebar">
+  <a href="{{ BASE_PATH}}{{ site.JB.about_path }}"><img src="/images/amc.jpg"/></a>
+  <ul class="sidebar">
+    <li class="sidebar">Member of <a class="sidebar" href="{{ BASE_PATH}}{{ site.JB.about_path }}">Darwin College</a></li>
+    <li class="sidebar">Visitor at <a class="sidebar" href="{{ BASE_PATH}}{{ site.JB.about_path }}"> Computer Lab</a></li>
+    <li class="sidebar">Committee of <a class="sidebar" href="{{ BASE_PATH}}{{ site.JB.about_path }}"> SVc2UK</a></li>
+    <li class="sidebar">Cofounder of <a class="sidebar" href="{{ BASE_PATH}}{{ site.JB.about_path }}"> Springboard</a></li>
+    <li class="sidebar">Observer at <a class="sidebar" href="{{ BASE_PATH}}{{ site.JB.about_path }}"> TidePowerd</a></li>
+    <li class="sidebar">Advisor to <a class="sidebar" href="{{ BASE_PATH}}{{ site.JB.about_path }}">CUEntrepreneurs</a></li>
+  </ul>
+  <a href="https://twitter.com/amirmc/"><img src="/icons/twitter_16.png" alt="amirmc on Twitter" /></a>
+  <a href="http://www.linkedin.com/in/amirchaudhry/"><img src="/icons/linkedin_16.png" alt="amir on LinkedIn" /></a>
+  <a href="https://github.com/amirmc/"><img src="/icons/github_16.png" alt="amirmc on GitHub"/></a>
+  <a href="http://news.ycombinator.com/threads?id=amirmc"><img src="/icons/yc_16.png" alt="amirmc on Hacker News" /></a>
+  <br />
+  <form action="http://www.google.com/search" class="navbar-search pull-left" method="get">
+    <input type="hidden" name="q" value="site:amirchaudhry.com"/>
+    <input type="text" class="search-query" placeholder="Search" name="q"/>
+  </form>
+  <br />
+  {% unless page.tags == empty %}
+    {% if page.tags != nil %}
+      <small class="sidebar">Filed under</small>
+      {% assign tags_list = page.tags %}
+    {% else %}
+      <small class="sidebar">Tags</small>
+      {% assign tags_list = site.tags %}
+    {% endif %}
+    <ul class="tag_box">
+      {% include amc/tags_list %}
+    </ul>
+  {% endunless %}
+</div>
