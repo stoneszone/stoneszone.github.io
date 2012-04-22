@@ -69,6 +69,11 @@ dl {margin: 0 0 1.5em 0;}
 dt {font-weight: bold;}
 dd {margin-left: 1.5em;}
 
+form {
+    display: block;
+    margin-top: 0em;
+}
+
 /* Quotes */
 blockquote {font-style: italic;}
 cite {}
@@ -93,7 +98,7 @@ tbody .alt th {}
 tfoot th {}
 tfoot td {}
 
-.body {clear: both; margin: 0 auto; width: 800px;}
+.body {clear: both; margin: 0 auto; width: 1000px;}
 img.right figure.right {float: right; margin: 0 0 2em 2em;}
 img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
@@ -104,7 +109,12 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 }
 
 /* Banner */
-#banner h1 {font-size: 3.571em; line-height: .6;}
+#banner h1 {
+    font-size: 2em;
+    line-height: .6;
+    float:left;
+}
+
 #banner h1 a:link, #banner h1 a:visited {
     color: #000305;
     display: block;
@@ -121,8 +131,99 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
 #banner h1 strong {font-size: 0.36em; font-weight: normal;}
 
+/* banner search and social */
+#banner .search{
+    float:right;
+    padding: 10px;
+}
+
+#banner .search input[type="text"] {
+    background: url('/img/search.png?1333500043') 10px center no-repeat #F2F2F2;
+    color: #999;
+    border: 1px solid #DDD;
+    font: 13px "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    padding: 6px 15px 6px 35px;
+    width: 100px;
+    -webkit-transition: 0.3s;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+    border-radius: 15px;
+}
+
+input[type="hidden"], input[type="image"], input[type="file"] {
+    -webkit-appearance: initial;
+    padding: initial;
+    background-color: initial;
+    border: initial;
+}
+
+input[type="hidden"] {
+    display: none;
+}
+
+input, input[type="password"], input[type="search"], isindex {
+    -webkit-appearance: textfield;
+    padding: 1px;
+    background-color: white;
+    border: 2px inset;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    cursor: auto;
+}
+
+#banner .social{
+/*    margin-right: 15px;*/
+    padding: 10px;
+    float:right;
+}
+
+#visitor {
+    padding: 2px;
+    float:right;
+}
+
+#banner #inner{
+    height:50px;
+}
+
+#banner .social a{
+    display: inline-block;
+    text-indent: -9999px;
+    margin-right: 15px;
+    opacity: 0.5;
+    width: 28px;
+    height: 28px;
+    -khtml-border-radius: 50%;
+
+    color: #666;
+    -moz-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+
+    text-decoration: none;
+    outline-width: 0;
+    color: #258FB8;
+}
+
+header .social a.google {
+    background: url('/img/google.png?1333500043') center no-repeat #C83D20;
+    border: 1px solid #C83D20;
+}
+header .social a.github {
+    background: url('/img/github.png?1333500043') center no-repeat #AFB6CA;
+    border: 1px solid #AFB6CA;
+}
+
+header .social a.rss {
+    background: url('/img/rss.png?1333500043') center no-repeat #EF7522;
+    border: 1px solid #EF7522;
+}
+
+
 /* Main Nav */
 #banner nav {
+    clear: right;
     background: #000305;
     font-size: 1.143em;
     height: 40px;
@@ -130,14 +231,14 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
     margin: 0 auto 2em auto;
     padding: 0;
     text-align: center;
-    width: 800px;
+    width: 1000px;
 
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
 }
 
-#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
+#banner nav ul {list-style: none; margin: 0 auto; width: 1000px;}
 #banner nav li {float: left; display: inline; margin: 0;}
 
 #banner nav a:link, #banner nav a:visited {
@@ -170,7 +271,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
     margin-bottom: 2em;
     overflow: hidden;
     padding: 20px 20px;
-    width: 760px;
+    width: 960px;
 
     border-radius: 10px;
     -moz-border-radius: 10px;
@@ -235,32 +336,71 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 .social a[href*='atom.xml'] {background-image: url('/img/feed.png');}
 
 /***** Header *****/
-#about {
-    background: #fff;
+footer{
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    border-top: 2px solid #AAA;
+    font-size: 10pt;
+    width: 1000px;
+    color: #AAA;
+
     font-style: normal;
     margin-bottom: 2em;
     overflow: hidden;
-    padding: 20px;
     text-align: left;
-    width: 760px;
 
+    /*
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
-/*    border: 1px solid #2759AF; */
+    */
+    
+    color: #2759AF; 
+    display: block; 
+    font-size: 1.286em;
 }
 
-#about .primary {float: left; width: 165px;}
-#about .primary strong {color: #2759AF; display: block; font-size: 1.286em;}
-#about .photo {float: left; margin: 5px 20px;}
+#copyright {float: left; width: 300px;}
+#siteinfo {float: right; width: 500px; text-align: right; }
 
-#about .url:link, #about .url:visited {text-decoration: none;}
+#about {
+    font-style: normal;
+    font-size: 1.25em;
+    margin-bottom: 2em;
+    overflow: hidden;
+    text-align: left;
+    width: 1000px;
+
+    /*
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    background: #fff;
+    border: 1px solid #2759AF; 
+    padding: 20px;
+    */
+}
+
+#about .primary {
+    float: right; 
+    width: 500px;
+    padding: 0 40px;
+}
+#about .primary strong {
+    color: #000000; 
+    display: block; 
+    font-size: 1.5em;
+}
+#about .photo {
+    float: left; 
+    margin: 5px 20px;
+    width: 300px;    
+}
+
+#about a:link, .url:link, #about .url:visited {text-decoration: none;}
 
 #about .bio {float: right; width: 500px;}
-#visitor  {margin-left: auto;
-	   margin-right: auto; 
-	   width: 500px; 
-	   text-align: center;}
 #siteinfo {float: right; width: 500px; text-align: right; }
 
 /* Blog */
@@ -278,14 +418,6 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 
 /* Content */
 /* .hentry footer {margin-bottom: 2em; border-right: 1px solid #F4E3E3;} */
-footer{
-    border-top: 2px solid #AAA;
-    text-align: center;
-    font-size: 10pt;
-    width: 760px;
-    color: #AAA;
-}
-
 .hentry footer address {display: inline;}
 #posts-list footer address {display: block;}
 

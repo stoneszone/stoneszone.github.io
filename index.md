@@ -1,15 +1,29 @@
 ---
-title: About Me
 layout: page
 ---
 
-## Education
-* 2011- Now, Ph.D. Student, Aerospace Engineering, Iowa State University, US
-* 2003-2009, Ph.D., Aerospace Propulsion Theory & Engineering, Nanjing University of Aeronautics & Astronautics, China
-* 1999-2003, B.Eng., Jet Propulsion, Nanjing University of Aeronautics & Astronautics, China
+<section id="about" class="body">
+  <figure class="photo">
+    <img src="img/lei.png" alt="Lei Shi" width="300" height="300"/>
+  </figure>
 
-## Research Interests
-* High-order methods for compressible Flow
-* Internal aerodynamics and aerospace propulsion
-* Aircraft inlet design and inlet/fuselage integration
+  <span class="primary">
+    <strong>石 磊  Lei Shi</strong>
+    Ph.D. Student <br/>
+    <a href="http://www.aere.iastate.edu/">Department of Aerospace Engineering </a> <br/>
+    <a href="http://www.cfdc.iastate.edu/">Computational Fluid Dynamics Center </a> <br/>
+    <a href="http://www.iastate.edu/">Iowa State University</a> <br/>
+    <hr>
+    Room 2362 Howe Hall<br/>
+    Ames, IA 50011<br/>
+    Email:
+    <a href="mailto:leishi@iastate.edu?Subject=Hello%20again">
+      leishi at iastate dot edu
+    </a>
+    <hr>
+    "No human investigation can be called real science if it cannot be demonstrated mathematically."<br/>
+    -- "A Treatise on Painting" by Leonardo da Vinci
+  </span>
+</section>
+
 

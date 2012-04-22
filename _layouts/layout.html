@@ -15,43 +15,96 @@
           />
     <link rel="stylesheet" type="text/css" href="/css/main.css" />
     <title>{{ page.title }}</title>
+    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript">
       <!--
           function init() {
           var loc = window.location.pathname;
           if (loc.match(/^\/(index\.html)?$/)) {
+          document.getElementById('nav_home').className = 'active';
+          }
+          else if (loc.match(/^\/resume\/(index\.html)?$/)) {
+          document.getElementById('nav_resume').className = 'active';
+          }
+          else if (loc.match(/^\/research\/(index\.html)?$/)) {
+          document.getElementById('nav_research').className = 'active';
+          }
+          else if (loc.match(/^\/publications\/(index\.html)?$/)) {
+          document.getElementById('nav_publications').className = 'active';
+          }
+          else if (loc.match(/^\/presentations\/(index\.html)?$/)) {
+          document.getElementById('nav_presentations').className = 'active';
+          }
+          else if (loc.match(/^\/notes\/(index\.html)?$/)) {
+          document.getElementById('nav_notes').className = 'active';
+          }
+          else if (loc.match(/^\/blog\/(index\.html)?$/)) {
           document.getElementById('nav_blog').className = 'active';
           }
-          else if (loc.match(/^\/about\/(index\.html)?$/)) {
-          document.getElementById('nav_about').className = 'active';
+          else if (loc.match(/^\/album\/(index\.html)?$/)) {
+          document.getElementById('nav_album').className = 'active';
+          }
+          else if (loc.match(/^\/link\/(index\.html)?$/)) {
+          document.getElementById('nav_link').className = 'active';
           }
           else if (loc.match(/^\/projects\/(index\.html)?$/)) {
           document.getElementById('nav_projects').className = 'active';
           }
-          else if (loc.match(/^\/5calc/)) {
-          document.getElementById('nav_5calc').className = 'active';
+
           }
-          }
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-12198467-1']);
+	  _gaq.push(['_trackPageview']);
+	  
+	  (function() {
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
         -->
     </script>
   </head>
     
-  <!-- body --------------------------------------------------------------------------------------------------- -->
+  <!-- body ------------------------------------------------------- -->
   <body onload="init()">
-    <!-- header  ---------------------------------------------------------------------------------------------- -->
+    <!-- header  -------------------------------------------------- -->
     <header id="banner" class="body">
-      <h1>Lei Shi's Homepage</h1>
-      <br />
+      <div id="inner">
+	<form class="search" action="http://google.com/search" method="get">
+	  <input class="left" type="text" name="q" results="0">
+	  <input type="hidden" name="q" value="site:lshi.org">
+	</form>
+	<div class="social">
+	  <a class="google" href="https://plus.google.com/102317532772173904991" title="Google+">Google+</a>
+	  <a class="github" href="https://github.com/stoneszone" title="GitHub">GitHub</a>
+	  <a class="rss" href="/atom.xml" title="RSS">RSS</a>
+	</div>
+	<div id="visitor">
+	  <!--
+	      <script type="text/javascript" src="http://jf.revolvermaps.com/t.js"></script>
+	      <script type="text/javascript">rmt_ki101('7',28,'5tj4602eib9','ff0000');</script>
+	      -->
+	  <script type="text/javascript" src="http://jf.revolvermaps.com/r.js"></script>
+	  <script type="text/javascript">rm_f1st('0','50','false','false','f5f4ef','5tj4602eib9','false','ff0000');</script>
+	  <noscript>
+	    <applet codebase="http://rf.revolvermaps.com/j" code="core.RE" width="140" height="140" archive="g.jar"><param name="cabbase" value="g.cab" /><param name="r" value="false" /><param name="n" value="false" /><param name="i" value="5tj4602eib9" /><param name="m" value="0" /><param name="s" value="50" /><param name="c" value="ff0000" /><param name="v" value="true" /><param name="b" value="f5f4ef" /><param name="rfc" value="true" />
+	    </applet>
+	  </noscript>
+	</div>
+      </div>
       <nav>
         <ul>
-	  <li id="nav_home"><a href="/">home</a></li>
-	  <li id="nav_resume"><a href="/resume/">resume</a></li>
-	  <li id="nav_research"><a href="/research/">research</a></li>
-	  <li id="nav_publications"><a href="/publications/">publications</a></li>
-	  <li id="nav_notes"><a href="/notes/">notes</a></li>
-	  <li id="nav_blog"><a href="/blog/">blog</a></li>
-	  <li id="nav_hobby"><a href="/hobby/">hobby</a></li>
-	  <li id="nav_link"><a href="/link/">link</a></li>
+	  <li id="nav_home"><a href="/">Home</a></li>
+	  <li id="nav_resume"><a href="/resume/">Resume</a></li>
+	  <li id="nav_research"><a href="/research/">Research</a></li>
+	  <li id="nav_publications"><a href="/publications/">Publications</a></li>
+	  <li id="nav_presentations"><a href="/presentations/">Presentations</a></li>
+	  <li id="nav_notes"><a href="/notes/">Notes</a></li>
+	  <li id="nav_blog"><a href="/blog/">Blog</a></li>
+	  <li id="nav_album"><a href="/album/">Album</a></li>
+	  <li id="nav_link"><a href="/link/">Links</a></li>
         </ul>
       </nav>
     </header>
@@ -64,62 +117,21 @@
 
     <!-- ----------------------------------------------------------------------------------------------------- -->
     <footer id="contentinfo">
-      <address id="about" class="vcard body">
-        <span class="primary">
-          <strong><a href="#" class="fn url">Lei Shi</a></strong>
-          <span class="email">leishi@iastate.edu</span>
-        </span>
+      <span id="copyright">
+        <strong><a href="#" class="fn url">Lei Shi &copy; 2011-2012</a></strong>
+      </span>
 	
-        <div id="siteinfo">
-          powered by <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://github.com/">github.com</a>  and <a href="http://www.gnu.org/software/emacs/">Emacs</a>
-          <br />
-          theme by <a href="http://thestegemans.com/">Mike Stegeman</a> &copy; 2011-2012
-        </div>
-	
-      </address>
+      <div id="siteinfo">
+        <strong>
+	  powered by
+	  <a href="http://jekyllrb.com/">jekyll</a> 
+	  <a href="http://github.com/">github.com</a> 
+	  <a href="http://www.gnu.org/software/emacs/">Emacs</a>
+	</strong>
+      </div>
     </footer>
-    <!-- ----------------------------------------------------------------------------------------------------- -->
+    <!-- ----------------------------------------------------------------- -->
 
-    
-    <!-- content  -->
-    <section id="extras" class="body">
-      <div class="taglist">
-        <h2>tags</h2>
-        <ul>
-          {% for tag in site.tags %}
-          <li><a href="/tag/{{ tag.first }}/">{{ tag.first }}</a></li>
-          {% endfor %}
-        </ul>
-        
-	<h2>blogroll</h2>
-        <ul>
-          <!--
-              <li><a href="#" rel="external">blog1</a></li>
-              -->
-        </ul>
-      </div>
-      <div class="social">
-        <h2>social</h2>
-        <ul>
-          <li><a href="http://github.com/stoneszone" rel="me">github</a></li>
-          <li><a href="https://plus.google.com/102317532772173904991" rel="me">google+</a></li>
-          <li><a href="http://lshi.org/rss.xml" rel="alternate">rss</a></li>
-          <li><a href="http://lshi.org/atom.xml" rel="alternate">atom</a></li>
-        </ul>
-      </div>
-      
-      <div id="visitor">
-	<script type="text/javascript" src="http://jf.revolvermaps.com/r.js"></script>
-	<script type="text/javascript">rm_f1st('0','140','false','false','f5f4ef','5tj4602eib9','true','ff0000');</script>
-	<noscript>
-	  <applet codebase="http://rf.revolvermaps.com/j" code="core.RE" width="140" height="140" archive="g.jar"><param name="cabbase" value="g.cab" /><param name="r" value="false" /><param name="n" value="false" /><param name="i" value="5tj4602eib9" /><param name="m" value="0" /><param name="s" value="180" /><param name="c" value="ff0000" /><param name="v" value="true" /><param name="b" value="f5f4ef" /><param name="rfc" value="true" />
-	  </applet>
-	</noscript>
-      </div>
-    
-    </section>
-    <!-- ----------------------------------------------------------------------------------------------------- -->
-    
     
   </body>
 </html>
