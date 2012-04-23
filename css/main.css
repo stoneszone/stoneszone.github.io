@@ -18,16 +18,24 @@ body {
 
 
 /* Headings */
-h2 {font-size: 1.571em} /* 22px */
-h3 {font-size: 1.429em} /* 20px */
-h4 {font-size: 1.286em} /* 18px */
-h5 {font-size: 1.143em} /* 16px */
+h2 {font-size: 32px} /* 22px */
+h3 {font-size: 25px} /* 20px */
+h4 {font-size: 20px} /* 18px */
+h5 {font-size: 15px} /* 16px */
 h6 {font-size: 1em} /* 14px */
 
 h2, h3, h4, h5, h6 {
-    font-weight: 400;
+    font-weight: 800;
     line-height: 1.1;
     margin-bottom: .8em;
+}
+
+h2{
+    border-bottom: 2px solid #79CDCD;
+}
+
+h3,h4,h5,h6{
+    border-bottom: 1px dotted #79CDCD;
 }
 
 /* Anchors */
@@ -36,7 +44,7 @@ a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
     color: #2759AF;
     padding: 0 1px;
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:hover, a:active {
     background-color: #2759AF;
@@ -100,8 +108,20 @@ tfoot th {}
 tfoot td {}
 
 .body {clear: both; margin: 0 auto; width: 1000px;}
-img.right figure.right {float: right; margin: 0 0 2em 2em;}
-img.left, figure.left {float: right; margin: 0 0 2em 2em;}
+img.right figure.right {
+    float: right; 
+    margin: 0 0 2em 2em;
+}
+img.left, figure.left {
+    float: right; 
+    margin: 0 0 2em 2em;
+}
+
+img.normal {width:auto;}
+img.big   {width:150%;}
+img.middle {width:70%;}
+img.small {width:50%;}
+img.xsmall {width:10%;}
 
 /***** Header *****/
 #banner {
@@ -357,7 +377,6 @@ footer{
     -webkit-border-radius: 10px;
     */
     
-    color: #2759AF; 
     display: block; 
     font-size: 1.286em;
 }
@@ -498,7 +517,16 @@ pre {
   position: relative;
   margin-bottom: 18px;
   line-height: 1;
+  margin-left:auto;
+  margin-right:auto;
 }
+
+.carousel.normal {width:auto;}
+.carousel.big   {width:150%;}
+.carousel.middle {width:70%;}
+.carousel.small {width:50%;}
+.carousel.xsmall {width:10%;}
+
 .carousel-inner {
   overflow: hidden;
   width: 100%;
@@ -577,16 +605,30 @@ pre {
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
+
+.carousel a:hover, a:active {
+    background-color: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    opacity: 0.7;
+    filter: alpha(opacity=90);
+}
+
+
 .carousel-caption {
   position: absolute;
   left: 0;
   right: 0;
   bottom: 0;
   padding: 10px 15px 5px;
-  background: #333333;
-  background: rgba(0, 0, 0, 0.75);
+  background: #FFFFFF;
+  background: rgba(0, 0, 0, 0.05);
 }
 .carousel-caption h4,
 .carousel-caption p {
   color: #ffffff;
+}
+
+.carousel h2,h3,h4,h5,h6{
+    border-bottom: 0px;
 }

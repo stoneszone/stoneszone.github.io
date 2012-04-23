@@ -1,15 +1,10 @@
 ---
-title: About Me
 layout: page
 ---
+* Lei Shi, Z.J. Wang, S. Fu, L. Zhang, "A PNPM-CPR Method for Navier-Stokes Equations", AIAA-2012-460.
+* Lei Shi, RongWei Guo, "Serpentine Inlet Design and Analysis", AIAA-2012-839.* 
+* Z.J. Wang, L. Shi, S. Fu, H. Zhang, L. Zhang, “A PNPM-CPR Framework for Hyperbolic Conservation Laws”, AIAA-2011-3227.
+* Shi Lei, Guo Rongwei, "Electromagnetic Scattering of a Submerged Inlet, Acta Aeronautica Et Astronautica Sinica", 2008-05
+* Shi Lei, Guo Rongwei, "Electromagnetic Scattering Characteristics of Serpentine Inlet", Acta Aeronautica Et Astronautica Sinica, 2007-06
 
-## Education
-* 2011- Now, Ph.D. Student, Aerospace Engineering, Iowa State University, US
-* 2003-2009, Ph.D., Aerospace Propulsion Theory & Engineering, Nanjing University of Aeronautics & Astronautics, China
-* 1999-2003, B.Eng., Jet Propulsion, Nanjing University of Aeronautics & Astronautics, China
-
-## Research Interests
-* High-order methods for compressible Flow
-* Internal aerodynamics and aerospace propulsion
-* Aircraft inlet design and inlet/fuselage integration
 

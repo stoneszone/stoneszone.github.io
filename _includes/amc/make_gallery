@@ -20,10 +20,10 @@ $('#myCarousel').carousel( 2 )
 
 -->{% endcomment %}
 <p>
-  <div id="pics-{{ image_folder }}" class="carousel slide">
+  <div id="pics-{{ image_folder }}" class="carousel slide {{ image_size }}">
     <div class="carousel-inner">
       <div class="item active" align="center">
-        <img src="{{ BASE_PATH }}/img/{{ image_folder }}/{{ image_folder }}-{{ 1 }}.png" alt="">
+        <img class="{{ image_size }}" src="{{ BASE_PATH }}/img/{{ image_folder }}/{{ image_folder }}-{{ 1 }}.png" alt="">
         <div class="carousel-caption">
           <h6 align="right">1 / {{ number_of_images }}</h6>
         </div>
@@ -31,7 +31,7 @@ $('#myCarousel').carousel( 2 )
       
       {% for image_iter in (2..number_of_images) %}
       <div class="item" align="center">
-        <img src="{{ BASE_PATH }}/img/{{ image_folder }}/{{ image_folder }}-{{ image_iter }}.png" alt="">
+        <img class="{{ image_size }}" src="{{ BASE_PATH }}/img/{{ image_folder }}/{{ image_folder }}-{{ image_iter }}.png" alt="">
         <div class="carousel-caption">
           <h6 align="right">{{ image_iter }} / {{ number_of_images }}</h6>
         </div>
@@ -44,4 +44,5 @@ $('#myCarousel').carousel( 2 )
 </p>
 
 {% assign image_folder = nil %}
+{% assign image_size = nil %}
 {% assign number_of_images = nil %}

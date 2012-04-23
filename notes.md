@@ -1,15 +1,12 @@
 ---
-title: About Me
+title: Notes
 layout: page
 ---
+## Course Notes
+### AerE 547 CFDII (Dr. Z.J. Wang)
 
-## Education
-* 2011- Now, Ph.D. Student, Aerospace Engineering, Iowa State University, US
-* 2003-2009, Ph.D., Aerospace Propulsion Theory & Engineering, Nanjing University of Aeronautics & Astronautics, China
-* 1999-2003, B.Eng., Jet Propulsion, Nanjing University of Aeronautics & Astronautics, China
+## Reading Notes
+### Discontinuous Galerkin method
 
-## Research Interests
-* High-order methods for compressible Flow
-* Internal aerodynamics and aerospace propulsion
-* Aircraft inlet design and inlet/fuselage integration
-
+## Achieved Notes
+### Messy Notes (Chinese)
