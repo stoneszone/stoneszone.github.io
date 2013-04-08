@@ -25,6 +25,8 @@ layout: page
     </a>
     <hr>
     "No human investigation can be called real science if it cannot be demonstrated mathematically."<br/>
-    -- "A Treatise on Painting" by Leonardo da Vinci
+    -- "A Treatise on Painting" by Leonardo da Vinci<br/>
+    "A lot of people run a race to see who is fastest. I run to see who has the most guts, who can punish himself into exhausting pace, and then at the end, punish himself even more."<br/>
+    -- Steve Prefontaine<br/>
   </span>
 </section>
