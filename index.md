@@ -15,17 +15,17 @@ layout: page
     Ph.D. Student <br/>
     <a href="http://www.aere.iastate.edu/">Department of Aerospace Engineering </a> <br/>
     <a href="http://www.cfdc.iastate.edu/">Computational Fluid Dynamics Center </a> <br/>
-    <a href="http://www.iastate.edu/">Iowa State University</a> <br/>
+    <a href="http://www.iastate.edu/">The University of Kansas</a> <br/>
     <hr>
-    Room 2362 Howe Hall<br/>
-    Ames, IA 50011<br/>
+    Room 1112 Learned Hall<br/>
+    Lawrence, KS 66045<br/>
     Email:
     <a href="mailto:leishi@iastate.edu?Subject=Hello%20again">
       leishi at iastate dot edu
     </a>
     <hr>
     "No human investigation can be called real science if it cannot be demonstrated mathematically."<br/>
-    -- "A Treatise on Painting" by Leonardo da Vinci<br/>
+    -- "A Treatise on Painting" by Leonardo da Vinci<br/><br/>
     "A lot of people run a race to see who is fastest. I run to see who has the most guts, who can punish himself into exhausting pace, and then at the end, punish himself even more."<br/>
     -- Steve Prefontaine<br/>
   </span>

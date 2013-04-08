@@ -4,7 +4,9 @@ layout: page
 ---
 
 ## Education
-* 2011- Now, Ph.D. Student, Aerospace Engineering, Iowa State University, US
+* 2012-Now, Ph.D. Student, Aerospace Engineering, The University of Kansas, US
+* 2011-2012, Aerospace Engineering, Iowa State University, US
+* 2009-2011, Aerospace Engineering, Old Dominion University, US
 * 2003-2009, Ph.D., Aerospace Propulsion Theory & Engineering, Nanjing University of Aeronautics & Astronautics, China
 * 1999-2003, B.Eng., Jet Propulsion, Nanjing University of Aeronautics & Astronautics, China
 
@@ -12,4 +14,3 @@ layout: page
 * High-order methods for compressible Flow
 * Internal aerodynamics and aerospace propulsion
 * Aircraft inlet design and inlet/fuselage integration
-
