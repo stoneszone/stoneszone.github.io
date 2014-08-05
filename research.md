@@ -2,21 +2,20 @@
 layout: page
 toc: true
 ---
-## High order method for compressible flow
-
-### Hybrid high order method (PNPM-CPR)
+## High-order hybrid finite element/finite volume PNPM-CPR framework
+### PNPM-CPR method
 {% assign image_size='middle' %}
 {% assign image_folder = 'pnpm-cpr' %}
 {% assign number_of_images = 2 %}
 {% include amc/make_gallery %}
 
-#### Viscous flow over a cylinder
+### Viscous flow over a cylinder
 {% assign image_size='middle' %}
 {% assign image_folder = 'cylinder' %}
 {% assign number_of_images = 5 %}
 {% include amc/make_gallery %}
 
-#### Viscous flow over the NACA-0012
+### Viscous flow over the NACA-0012 airfoil
 {% assign image_size='middle' %}
 {% assign image_folder = 'pnpm-naca12' %}
 {% assign number_of_images = 5 %}
