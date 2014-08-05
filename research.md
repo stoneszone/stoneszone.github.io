@@ -12,7 +12,7 @@ toc: true
 ### Viscous flow over a cylinder
 {% assign image_size='middle' %}
 {% assign image_folder = 'cylinder' %}
-{% assign number_of_images = 5 %}
+{% assign number_of_images = 6 %}
 {% include amc/make_gallery %}
 
 ### Viscous flow over the NACA-0012 airfoil
