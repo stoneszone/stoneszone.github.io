@@ -13,4 +13,4 @@ layout: page
 ## Research Interests
 * High-order methods for compressible Flow
 * Internal aerodynamics and aerospace propulsion
-* Aircraft inlet design and inlet/fuselage integration
+* Aircraft inlet design and the inlet/fuselage integration

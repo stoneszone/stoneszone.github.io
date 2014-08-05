@@ -246,9 +246,10 @@ header .social a.rss {
 /* Main Nav */
 #banner nav {
     clear: right;
-    background: #000305;
-    font-size: 1.143em;
+    background: #93A1AF;
+    font-size: 1.2em;
     height: 40px;
+    font-family: Arial, sans-serif;
     line-height: 30px;
     margin: 0 auto 2em auto;
     padding: 0;
