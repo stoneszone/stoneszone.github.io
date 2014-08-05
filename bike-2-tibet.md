@@ -56,7 +56,7 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </ul>
 
 
-<a href="http://leishi.public.iastate.edu/images/318-trip/skypath.jpg"><img width="100%" src="http://leishi.public.iastate.edu/images/318-trip/skypath.jpg" alt="海拔图" /></a>
+<a href="./img/318-trip/skypath.jpg"><img width="100%" src="./img/318-trip/skypath.jpg" alt="海拔图" /></a>
 
 
 
@@ -90,35 +90,35 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day0-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day0-1.jpg" />
+<p><img src="./img/318-trip/day0-1.jpg"  alt="./img/318-trip/day0-1.jpg" />
 火车站装车
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day0-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day0-2.jpg" />
+<img src="./img/318-trip/day0-2.jpg"  alt="./img/318-trip/day0-2.jpg" />
 成都站留影
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day0-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day0-3.jpg" />
+<img src="./img/318-trip/day0-3.jpg"  alt="./img/318-trip/day0-3.jpg" />
 信心百倍
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day0-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day0-5.jpg" />
+<img src="./img/318-trip/day0-5.jpg"  alt="./img/318-trip/day0-5.jpg" />
 成都小吃-猜猜是什么
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day0-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day0-6.jpg" />
+<img src="./img/318-trip/day0-6.jpg"  alt="./img/318-trip/day0-6.jpg" />
 香呀
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day0-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day0-4.jpg" />
+<img src="./img/318-trip/day0-4.jpg"  alt="./img/318-trip/day0-4.jpg" />
 我们的旅馆
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day0-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day0-7.jpg" />
+<img src="./img/318-trip/day0-7.jpg"  alt="./img/318-trip/day0-7.jpg" />
 房间很小，,40元/间
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day0-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day0-8.jpg" />
+<img src="./img/318-trip/day0-8.jpg"  alt="./img/318-trip/day0-8.jpg" />
 出发留影
 </p>
 </div>
@@ -157,11 +157,11 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day1-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day1-1.jpg" />
+<p><img src="./img/318-trip/day1-1.jpg"  alt="./img/318-trip/day1-1.jpg" />
 我们的晚饭
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day1-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day1-2.jpg" />
+<img src="./img/318-trip/day1-2.jpg"  alt="./img/318-trip/day1-2.jpg" />
 房间还不错
 </p>
 </div>
@@ -203,43 +203,43 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day2-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-1.jpg" />
+<p><img src="./img/318-trip/day2-1.jpg"  alt="./img/318-trip/day2-1.jpg" />
 蒙顶山入口
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-2.jpg" />
+<img src="./img/318-trip/day2-2.jpg"  alt="./img/318-trip/day2-2.jpg" />
 过了隧道就是雅安
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-3.jpg" />
+<img src="./img/318-trip/day2-3.jpg"  alt="./img/318-trip/day2-3.jpg" />
 雅安市区
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-4.jpg" />
+<img src="./img/318-trip/day2-4.jpg"  alt="./img/318-trip/day2-4.jpg" />
 大河－深谷
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-5.jpg" />
+<img src="./img/318-trip/day2-5.jpg"  alt="./img/318-trip/day2-5.jpg" />
 一边就是悬崖
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-6.jpg" />
+<img src="./img/318-trip/day2-6.jpg"  alt="./img/318-trip/day2-6.jpg" />
 茶马古道入口
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-7.jpg" />
+<img src="./img/318-trip/day2-7.jpg"  alt="./img/318-trip/day2-7.jpg" />
 28大杆强人
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-8.jpg" />
+<img src="./img/318-trip/day2-8.jpg"  alt="./img/318-trip/day2-8.jpg" />
 吊桥
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-10.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-10.jpg" />
+<img src="./img/318-trip/day2-10.jpg"  alt="./img/318-trip/day2-10.jpg" />
 晚餐
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day2-9.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day2-9.jpg" />
+<img src="./img/318-trip/day2-9.jpg"  alt="./img/318-trip/day2-9.jpg" />
 残局
 </p>
 </div>
@@ -278,31 +278,31 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day3-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day3-1.jpg" />
+<p><img src="./img/318-trip/day3-1.jpg"  alt="./img/318-trip/day3-1.jpg" />
 小溪
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day3-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day3-2.jpg" />
+<img src="./img/318-trip/day3-2.jpg"  alt="./img/318-trip/day3-2.jpg" />
 盘山路
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day3-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day3-3.jpg" />
+<img src="./img/318-trip/day3-3.jpg"  alt="./img/318-trip/day3-3.jpg" />
 隧道口
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day3-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day3-4.jpg" />
+<img src="./img/318-trip/day3-4.jpg"  alt="./img/318-trip/day3-4.jpg" />
 隧道
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day3-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day3-5.jpg" />
+<img src="./img/318-trip/day3-5.jpg"  alt="./img/318-trip/day3-5.jpg" />
 把大木
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day3-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day3-6.jpg" />
+<img src="./img/318-trip/day3-6.jpg"  alt="./img/318-trip/day3-6.jpg" />
 出口
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day3-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day3-7.jpg" />
+<img src="./img/318-trip/day3-7.jpg"  alt="./img/318-trip/day3-7.jpg" />
 泸定桥
 </p>
 </div>
@@ -335,27 +335,27 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 <p>今天其实已经在翻折多山的路上了，目的地是情歌的故乡－康定，只是路程很艰苦，一路都是上坡。不过景色倒是不错，本来可以看到四川的最高雪山的，可惜都是云。路上我的骑行包在下一个小坡时掉了，腰带直接被后轮磨断，当时后面一辆车很近，还好没摔倒。 快到康定的时候下起了小雨，芬必得的12小时药效好像到时间了，腿变的很痛，到旅馆几乎又上不了楼了。康定是四川甘孜州的州府，很热闹，折多河横穿市中心。这里碰到了能刷卡的超市，买了一堆吃的，有种酸奶很爽，下次喝酸奶还是到了拉萨。晚上去看了广场的藏族舞，有个女孩还穿吊带，不怕冷呀。我穿了件上衣，下面懒得换了，直接穿骑行裤，结果所有人都看我的裤子笑，哀，郁闷。
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day4-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day4-1.jpg" />
+<img src="./img/318-trip/day4-1.jpg"  alt="./img/318-trip/day4-1.jpg" />
 小溪
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day4-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day4-2.jpg" />
+<img src="./img/318-trip/day4-2.jpg"  alt="./img/318-trip/day4-2.jpg" />
 挂满经幡的桥
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day4-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day4-4.jpg" />
+<img src="./img/318-trip/day4-4.jpg"  alt="./img/318-trip/day4-4.jpg" />
 后面好像是什么雪山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day4-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day4-5.jpg" />
+<img src="./img/318-trip/day4-5.jpg"  alt="./img/318-trip/day4-5.jpg" />
 水很清澈
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day4-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day4-6.jpg" />
+<img src="./img/318-trip/day4-6.jpg"  alt="./img/318-trip/day4-6.jpg" />
 凉粉，很好吃
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day4-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day4-7.jpg" />
+<img src="./img/318-trip/day4-7.jpg"  alt="./img/318-trip/day4-7.jpg" />
 康定城内的折多河
 </p>
 
@@ -392,43 +392,43 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day5-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-1.jpg" />
+<p><img src="./img/318-trip/day5-1.jpg"  alt="./img/318-trip/day5-1.jpg" />
 远处的雪山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-2.jpg" />
+<img src="./img/318-trip/day5-2.jpg"  alt="./img/318-trip/day5-2.jpg" />
 玉岭
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-3.jpg" />
+<img src="./img/318-trip/day5-3.jpg"  alt="./img/318-trip/day5-3.jpg" />
 天空
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-4.jpg" />
+<img src="./img/318-trip/day5-4.jpg"  alt="./img/318-trip/day5-4.jpg" />
 天很蓝，云很高
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-5.jpg" />
+<img src="./img/318-trip/day5-5.jpg"  alt="./img/318-trip/day5-5.jpg" />
 藏族小家伙
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-6.jpg" />
+<img src="./img/318-trip/day5-6.jpg"  alt="./img/318-trip/day5-6.jpg" />
 和雪山一样高了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-7.jpg" />
+<img src="./img/318-trip/day5-7.jpg"  alt="./img/318-trip/day5-7.jpg" />
 云彩之上
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-8.jpg" />
+<img src="./img/318-trip/day5-8.jpg"  alt="./img/318-trip/day5-8.jpg" />
 我在云上骑车，天空之城
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-9.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-9.jpg" />
+<img src="./img/318-trip/day5-9.jpg"  alt="./img/318-trip/day5-9.jpg" />
 折多山顶的经幡，我已经在爬了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day5-10.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day5-10.jpg" />
+<img src="./img/318-trip/day5-10.jpg"  alt="./img/318-trip/day5-10.jpg" />
 下了折多山后就进入藏区了
 </p>
 </div>
@@ -447,15 +447,15 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 白天和大厨聊了一会，知道我们明天要爬高尔寺山，晚上的回锅肉和白连锅真是货真价实，大哥还特意过来给我们说慢慢吃，不急。我们没有辜负他的一番心意，将所有都解决干净，结果差点都不能弯腰了。呵呵。
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day6-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day6-1.jpg" />
+<img src="./img/318-trip/day6-1.jpg"  alt="./img/318-trip/day6-1.jpg" />
 新都桥
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day6-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day6-2.jpg" />
+<img src="./img/318-trip/day6-2.jpg"  alt="./img/318-trip/day6-2.jpg" />
 我们住的旅馆
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day6-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day6-3.jpg" />
+<img src="./img/318-trip/day6-3.jpg"  alt="./img/318-trip/day6-3.jpg" />
 藏房
 </p>
 </div>
@@ -492,27 +492,27 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day7-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day7-1.jpg" />
+<p><img src="./img/318-trip/day7-1.jpg"  alt="./img/318-trip/day7-1.jpg" />
 哑口
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day7-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day7-2.jpg" />
+<img src="./img/318-trip/day7-2.jpg"  alt="./img/318-trip/day7-2.jpg" />
 山顶上是成片的小黄花
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day7-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day7-3.jpg" />
+<img src="./img/318-trip/day7-3.jpg"  alt="./img/318-trip/day7-3.jpg" />
 道班的大哥
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day7-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day7-4.jpg" />
+<img src="./img/318-trip/day7-4.jpg"  alt="./img/318-trip/day7-4.jpg" />
 牦牛，像武士一般，但是很温顺
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day7-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day7-5.jpg" />
+<img src="./img/318-trip/day7-5.jpg"  alt="./img/318-trip/day7-5.jpg" />
 下山的路上
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day7-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day7-6.jpg" />
+<img src="./img/318-trip/day7-6.jpg"  alt="./img/318-trip/day7-6.jpg" />
 村子
 </p>
 </div>
@@ -548,33 +548,33 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day8-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day8-1.jpg" />
+<p><img src="./img/318-trip/day8-1.jpg"  alt="./img/318-trip/day8-1.jpg" />
 腿疼呀
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day8-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day8-2.jpg" />
+<img src="./img/318-trip/day8-2.jpg"  alt="./img/318-trip/day8-2.jpg" />
 小王和小向同学
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day8-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day8-3.jpg" />
+<img src="./img/318-trip/day8-3.jpg"  alt="./img/318-trip/day8-3.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day8-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day8-4.jpg" />
+<img src="./img/318-trip/day8-4.jpg"  alt="./img/318-trip/day8-4.jpg" />
 从哑口远眺
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day8-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day8-5.jpg" />
+<img src="./img/318-trip/day8-5.jpg"  alt="./img/318-trip/day8-5.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day8-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day8-6.jpg" />
+<img src="./img/318-trip/day8-6.jpg"  alt="./img/318-trip/day8-6.jpg" />
 119道班后面的小山上才有信号
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day8-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day8-7.jpg" />
+<img src="./img/318-trip/day8-7.jpg"  alt="./img/318-trip/day8-7.jpg" />
 道班全景
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day8-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day8-8.jpg" />
+<img src="./img/318-trip/day8-8.jpg"  alt="./img/318-trip/day8-8.jpg" />
 </p>
 </div>
 
@@ -609,30 +609,30 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 <p>今天是最惨烈的一天。早上一醒来就发现在下大雨，道班的大哥和大嫂都说再住一天再走，要不就搭车走，大家商量了一下还是决定出发，吃饭加住宿没人给留了20块钱。我穿了道班大哥的一件雨衣，lw穿了王老师的雨衣。今天本来应该是比较轻松的路程，翻过三座相对海拔不是很高的山就可以到世界最高城市理塘了，结果是痛苦不堪，整个是一个冰雨，非常的冷，雨衣一会就都没用了，全身上下没有一处干的地方，我们是骑一会就跑到藏民家里去烤会火，感觉手脚都要没有知觉了。我还好，碟刹比较轻，用v刹的哥们就惨了，刹车都没法捏，大家半路都为今天决定骑懊恼不已，生怕感冒，希望出发前饿补的感冒药有用。傍晚的时候雨停了，因为烤火耽误了很多时间，后来大家骑的都很快，结果lw的胎给玻璃扎了，那时候还有一座山没有翻，我们的所有行李都给道班大哥拿去理塘了先，补胎工具和气筒都在包里，那个绝望呀，本来都准备搭车了，正好遇到义务的哥们看到下大雨直接从雅江搭车过来，问他们借了补胎工具和气筒，胎是搞定了，可惜那气筒是美嘴，用不了，只能向一个路过骑摩托的藏族小伙求救，他拉着lw拿着轮胎到村子里打了气，然后又把他拉回来，很是感谢。当我们看到理塘的世界高城牌坊的时候天已经快要黑透了，那个感慨呀，拍照走人。先洗了一个热水澡，还好有浴霸，很舒服，然后晚上大吃了一顿白连锅犒劳自己。
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day9-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day9-1.jpg" />
+<img src="./img/318-trip/day9-1.jpg"  alt="./img/318-trip/day9-1.jpg" />
 卡子拉山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day9-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day9-2.jpg" />
+<img src="./img/318-trip/day9-2.jpg"  alt="./img/318-trip/day9-2.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day9-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day9-3.jpg" />
+<img src="./img/318-trip/day9-3.jpg"  alt="./img/318-trip/day9-3.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day9-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day9-4.jpg" />
+<img src="./img/318-trip/day9-4.jpg"  alt="./img/318-trip/day9-4.jpg" />
 从最后一座山的哑口远眺远方的雪山，理塘就在脚下
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day9-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day9-5.jpg" />
+<img src="./img/318-trip/day9-5.jpg"  alt="./img/318-trip/day9-5.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day9-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day9-6.jpg" />
+<img src="./img/318-trip/day9-6.jpg"  alt="./img/318-trip/day9-6.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day9-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day9-7.jpg" />
+<img src="./img/318-trip/day9-7.jpg"  alt="./img/318-trip/day9-7.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day9-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day9-8.jpg" />
+<img src="./img/318-trip/day9-8.jpg"  alt="./img/318-trip/day9-8.jpg" />
 </p>
 </div>
 
@@ -667,45 +667,45 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day10-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-1.jpg" />
+<p><img src="./img/318-trip/day10-1.jpg"  alt="./img/318-trip/day10-1.jpg" />
 藏族小女孩
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-2.jpg" />
+<img src="./img/318-trip/day10-2.jpg"  alt="./img/318-trip/day10-2.jpg" />
 秃鹫和乌鸦在吃肉
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-3.jpg" />
+<img src="./img/318-trip/day10-3.jpg"  alt="./img/318-trip/day10-3.jpg" />
 飞翔的秃鹫
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-4.jpg" />
+<img src="./img/318-trip/day10-4.jpg"  alt="./img/318-trip/day10-4.jpg" />
 天路，不要问我从那里来
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-5.jpg" />
+<img src="./img/318-trip/day10-5.jpg"  alt="./img/318-trip/day10-5.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-6.jpg" />
+<img src="./img/318-trip/day10-6.jpg"  alt="./img/318-trip/day10-6.jpg" />
 海子山顶的怪山头，不会是黑山老妖的老家吧
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-7.jpg" />
+<img src="./img/318-trip/day10-7.jpg"  alt="./img/318-trip/day10-7.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-8.jpg" />
+<img src="./img/318-trip/day10-8.jpg"  alt="./img/318-trip/day10-8.jpg" />
 海子山哑口
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-9.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-9.jpg" />
+<img src="./img/318-trip/day10-9.jpg"  alt="./img/318-trip/day10-9.jpg" />
 哇，没强盗啊
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-10.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-10.jpg" />
+<img src="./img/318-trip/day10-10.jpg"  alt="./img/318-trip/day10-10.jpg" />
 海子，像一对殉情的情侣
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day10-11.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day10-11.jpg" />
+<img src="./img/318-trip/day10-11.jpg"  alt="./img/318-trip/day10-11.jpg" />
 原来也有如此朴素的电力宾馆
 </p>
 </div>
@@ -742,37 +742,37 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day11-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-1.jpg" />
+<p><img src="./img/318-trip/day11-1.jpg"  alt="./img/318-trip/day11-1.jpg" />
 难得的好天气
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day11-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-2.jpg" />
+<img src="./img/318-trip/day11-2.jpg"  alt="./img/318-trip/day11-2.jpg" />
 隧道中的壁画
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day11-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-3.jpg" />
+<img src="./img/318-trip/day11-3.jpg"  alt="./img/318-trip/day11-3.jpg" />
 寺
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day11-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-4.jpg" />
+<img src="./img/318-trip/day11-4.jpg"  alt="./img/318-trip/day11-4.jpg" />
 转经轮的老人们
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day11-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-5.jpg" />
+<img src="./img/318-trip/day11-5.jpg"  alt="./img/318-trip/day11-5.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day11-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-6.jpg" />
+<img src="./img/318-trip/day11-6.jpg"  alt="./img/318-trip/day11-6.jpg" />
 这个大
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day11-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-7.jpg" />
+<img src="./img/318-trip/day11-7.jpg"  alt="./img/318-trip/day11-7.jpg" />
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day11-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-8.jpg" />
+<img src="./img/318-trip/day11-8.jpg"  alt="./img/318-trip/day11-8.jpg" />
 寺门口,有两幅壁画，一个像极了武松打老虎
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day11-9.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day11-9.jpg" />
+<img src="./img/318-trip/day11-9.jpg"  alt="./img/318-trip/day11-9.jpg" />
 巴塘玄子，远处有闪电划过
 </p>
 
@@ -807,27 +807,27 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day12-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day12-1.jpg" />
+<p><img src="./img/318-trip/day12-1.jpg"  alt="./img/318-trip/day12-1.jpg" />
 塌方了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day12-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day12-2.jpg" />
+<img src="./img/318-trip/day12-2.jpg"  alt="./img/318-trip/day12-2.jpg" />
 被堵住的车排成长龙
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day12-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day12-3.jpg" />
+<img src="./img/318-trip/day12-3.jpg"  alt="./img/318-trip/day12-3.jpg" />
 四川和西藏的交界-金沙江大桥
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day12-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day12-4.jpg" />
+<img src="./img/318-trip/day12-4.jpg"  alt="./img/318-trip/day12-4.jpg" />
 西藏界
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day12-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day12-5.jpg" />
+<img src="./img/318-trip/day12-5.jpg"  alt="./img/318-trip/day12-5.jpg" />
 路况一下进入了解放前,这就是西藏吗?
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day12-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day12-6.jpg" />
+<img src="./img/318-trip/day12-6.jpg"  alt="./img/318-trip/day12-6.jpg" />
 车子外胎爆了
 </p>
 </div>
@@ -861,35 +861,35 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day13-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day13-1.jpg" />
+<p><img src="./img/318-trip/day13-1.jpg"  alt="./img/318-trip/day13-1.jpg" />
 拉乌山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day13-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day13-2.jpg" />
+<img src="./img/318-trip/day13-2.jpg"  alt="./img/318-trip/day13-2.jpg" />
 拉乌山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day13-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day13-3.jpg" />
+<img src="./img/318-trip/day13-3.jpg"  alt="./img/318-trip/day13-3.jpg" />
 山顶的兔子
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day13-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day13-4.jpg" />
+<img src="./img/318-trip/day13-4.jpg"  alt="./img/318-trip/day13-4.jpg" />
 下山的路太挫了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day13-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day13-5.jpg" />
+<img src="./img/318-trip/day13-5.jpg"  alt="./img/318-trip/day13-5.jpg" />
 澜沧江,红色的
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day13-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day13-6.jpg" />
+<img src="./img/318-trip/day13-6.jpg"  alt="./img/318-trip/day13-6.jpg" />
 澜沧江
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day13-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day13-7.jpg" />
+<img src="./img/318-trip/day13-7.jpg"  alt="./img/318-trip/day13-7.jpg" />
 澜沧江
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day13-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day13-8.jpg" />
+<img src="./img/318-trip/day13-8.jpg"  alt="./img/318-trip/day13-8.jpg" />
 澜沧江大桥的纪念石碑,死了很多解放军和公路局的
 </p>
 </div>
@@ -923,23 +923,23 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day14-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day14-1.jpg" />
+<p><img src="./img/318-trip/day14-1.jpg"  alt="./img/318-trip/day14-1.jpg" />
 开始翻觉巴山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day14-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day14-2.jpg" />
+<img src="./img/318-trip/day14-2.jpg"  alt="./img/318-trip/day14-2.jpg" />
 回头看看到处都是大剪子似的路
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day14-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day14-3.jpg" />
+<img src="./img/318-trip/day14-3.jpg"  alt="./img/318-trip/day14-3.jpg" />
 下山了风景开始不同,经历打劫的我们心情格外晴朗,可惜时间不早了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day14-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day14-4.jpg" />
+<img src="./img/318-trip/day14-4.jpg"  alt="./img/318-trip/day14-4.jpg" />
 这棵树他在为谁守望?
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day14-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day14-5.jpg" />
+<img src="./img/318-trip/day14-5.jpg"  alt="./img/318-trip/day14-5.jpg" />
 容许兵站的那夜格外难熬
 </p>
 </div>
@@ -973,23 +973,23 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day15-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day15-1.jpg" />
+<p><img src="./img/318-trip/day15-1.jpg"  alt="./img/318-trip/day15-1.jpg" />
 开始下雪了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day15-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day15-2.jpg" />
+<img src="./img/318-trip/day15-2.jpg"  alt="./img/318-trip/day15-2.jpg" />
 漫山的大雪,冬天啊这是
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day15-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day15-3.jpg" />
+<img src="./img/318-trip/day15-3.jpg"  alt="./img/318-trip/day15-3.jpg" />
 一路的痛苦,山顶上才可以放声大笑一下
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day15-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day15-4.jpg" />
+<img src="./img/318-trip/day15-4.jpg"  alt="./img/318-trip/day15-4.jpg" />
 东达山,我会记住你
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day15-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day15-5.jpg" />
+<img src="./img/318-trip/day15-5.jpg"  alt="./img/318-trip/day15-5.jpg" />
 东达山
 </p>
 </div>
@@ -1023,19 +1023,19 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day16-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day16-1.jpg" />
+<p><img src="./img/318-trip/day16-1.jpg"  alt="./img/318-trip/day16-1.jpg" />
 为了防止生病,我们顾不上形象了,买了个忍着神龟的雨衣
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day16-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day16-2.jpg" />
+<img src="./img/318-trip/day16-2.jpg"  alt="./img/318-trip/day16-2.jpg" />
 今天的路很好
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day16-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day16-3.jpg" />
+<img src="./img/318-trip/day16-3.jpg"  alt="./img/318-trip/day16-3.jpg" />
 白塔
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day16-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day16-4.jpg" />
+<img src="./img/318-trip/day16-4.jpg"  alt="./img/318-trip/day16-4.jpg" />
 藏族小p孩
 </p>
 </div>
@@ -1068,31 +1068,31 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day17-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day17-1.jpg" />
+<p><img src="./img/318-trip/day17-1.jpg"  alt="./img/318-trip/day17-1.jpg" />
 回望4000多米海拔,上楼都要喘气的邦达,很冷的邦达
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day17-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day17-2.jpg" />
+<img src="./img/318-trip/day17-2.jpg"  alt="./img/318-trip/day17-2.jpg" />
 业拉山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day17-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day17-3.jpg" />
+<img src="./img/318-trip/day17-3.jpg"  alt="./img/318-trip/day17-3.jpg" />
 业拉山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day17-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day17-4.jpg" />
+<img src="./img/318-trip/day17-4.jpg"  alt="./img/318-trip/day17-4.jpg" />
 著名的怒江72拐
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day17-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day17-5.jpg" />
+<img src="./img/318-trip/day17-5.jpg"  alt="./img/318-trip/day17-5.jpg" />
 虽然有拐,但也有宁静的田园
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day17-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day17-6.jpg" />
+<img src="./img/318-trip/day17-6.jpg"  alt="./img/318-trip/day17-6.jpg" />
 武警把守的怒江大桥
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day17-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day17-7.jpg" />
+<img src="./img/318-trip/day17-7.jpg"  alt="./img/318-trip/day17-7.jpg" />
 磕长头的哥们,之后就开始下大雨,然后遭遇现场版泥石流
 </p>
 </div>
@@ -1126,35 +1126,35 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day18-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day18-1.jpg" />
+<p><img src="./img/318-trip/day18-1.jpg"  alt="./img/318-trip/day18-1.jpg" />
 昨天的泥石流让我们擦了一上午的车,为了看然乌,搭车了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day18-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day18-2.jpg" />
+<img src="./img/318-trip/day18-2.jpg"  alt="./img/318-trip/day18-2.jpg" />
 屁股好疼,原来让我们鄙视的搭车一族也是不好当的
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day18-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day18-3.jpg" />
+<img src="./img/318-trip/day18-3.jpg"  alt="./img/318-trip/day18-3.jpg" />
 其实搭车很危险,我们的心都悬着,防身利器也被颠掉了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day18-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day18-4.jpg" />
+<img src="./img/318-trip/day18-4.jpg"  alt="./img/318-trip/day18-4.jpg" />
 放下东西我们就去然乌湖,路上的小瀑布
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day18-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day18-5.jpg" />
+<img src="./img/318-trip/day18-5.jpg"  alt="./img/318-trip/day18-5.jpg" />
 高山湖泊,然乌,还有雪山的点缀
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day18-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day18-6.jpg" />
+<img src="./img/318-trip/day18-6.jpg"  alt="./img/318-trip/day18-6.jpg" />
 然乌
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day18-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day18-7.jpg" />
+<img src="./img/318-trip/day18-7.jpg"  alt="./img/318-trip/day18-7.jpg" />
 湖后面的雪山,仔细看有个很像镰刀斧头的造型
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day18-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day18-8.jpg" />
+<img src="./img/318-trip/day18-8.jpg"  alt="./img/318-trip/day18-8.jpg" />
 然乌
 </p>
 </div>
@@ -1187,47 +1187,47 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day19-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-1.jpg" />
+<p><img src="./img/318-trip/day19-1.jpg"  alt="./img/318-trip/day19-1.jpg" />
 从然乌出发,开始的路程很好
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-2.jpg" />
+<img src="./img/318-trip/day19-2.jpg"  alt="./img/318-trip/day19-2.jpg" />
 风景很像我们的家乡-XJ
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-3.jpg" />
+<img src="./img/318-trip/day19-3.jpg"  alt="./img/318-trip/day19-3.jpg" />
 中国最美的冰川-米堆,可惜上午的雨让我们来不及去了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-4.jpg" />
+<img src="./img/318-trip/day19-4.jpg"  alt="./img/318-trip/day19-4.jpg" />
 留个影就走了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-5.jpg" />
+<img src="./img/318-trip/day19-5.jpg"  alt="./img/318-trip/day19-5.jpg" />
 天还是很蓝
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-6.jpg" />
+<img src="./img/318-trip/day19-6.jpg"  alt="./img/318-trip/day19-6.jpg" />
 搓板路开始了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-7.jpg" />
+<img src="./img/318-trip/day19-7.jpg"  alt="./img/318-trip/day19-7.jpg" />
 好路开始了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-8.jpg" />
+<img src="./img/318-trip/day19-8.jpg"  alt="./img/318-trip/day19-8.jpg" />
 路很直
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-9.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-9.jpg" />
+<img src="./img/318-trip/day19-9.jpg"  alt="./img/318-trip/day19-9.jpg" />
 小兄弟-小向
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-10.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-10.jpg" />
+<img src="./img/318-trip/day19-10.jpg"  alt="./img/318-trip/day19-10.jpg" />
 不时有山泉把路冲了,农夫和山泉,哈哈
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day19-11.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day19-11.jpg" />
+<img src="./img/318-trip/day19-11.jpg"  alt="./img/318-trip/day19-11.jpg" />
 天黑了
 </p>
 
@@ -1262,27 +1262,27 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day20-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day20-1.jpg" />
+<p><img src="./img/318-trip/day20-1.jpg"  alt="./img/318-trip/day20-1.jpg" />
 吃鸡蛋可是奢侈的事情
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day20-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day20-2.jpg" />
+<img src="./img/318-trip/day20-2.jpg"  alt="./img/318-trip/day20-2.jpg" />
 藏族的房子很漂亮,我们都叫别墅
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day20-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day20-3.jpg" />
+<img src="./img/318-trip/day20-3.jpg"  alt="./img/318-trip/day20-3.jpg" />
 回头
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day20-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day20-4.jpg" />
+<img src="./img/318-trip/day20-4.jpg"  alt="./img/318-trip/day20-4.jpg" />
 大水把路冲断了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day20-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day20-5.jpg" />
+<img src="./img/318-trip/day20-5.jpg"  alt="./img/318-trip/day20-5.jpg" />
 很多藏族小孩帮你背东西过去,一个车子10块,我们可不需要，,不过水真的很大,在中间到大腿,差点把我们冲到印度了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day20-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day20-6.jpg" />
+<img src="./img/318-trip/day20-6.jpg"  alt="./img/318-trip/day20-6.jpg" />
 不是随便可以乱拍的
 </p>
 </div>
@@ -1316,47 +1316,47 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day21-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-1.jpg" />
+<p><img src="./img/318-trip/day21-1.jpg"  alt="./img/318-trip/day21-1.jpg" />
 国家地质公园
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-2.jpg" />
+<img src="./img/318-trip/day21-2.jpg"  alt="./img/318-trip/day21-2.jpg" />
 飞虎队驼峰航线的残骸就是在这边被发现的
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-3.jpg" />
+<img src="./img/318-trip/day21-3.jpg"  alt="./img/318-trip/day21-3.jpg" />
 通麦天险的开始-通麦大桥
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-5.jpg" />
+<img src="./img/318-trip/day21-5.jpg"  alt="./img/318-trip/day21-5.jpg" />
 路都是在悬崖用木头堆起来修的
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-4.jpg" />
+<img src="./img/318-trip/day21-4.jpg"  alt="./img/318-trip/day21-4.jpg" />
 这就是天险吗?
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-6.jpg" />
+<img src="./img/318-trip/day21-6.jpg"  alt="./img/318-trip/day21-6.jpg" />
 过天险要保持良好的心态
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-7.jpg" />
+<img src="./img/318-trip/day21-7.jpg"  alt="./img/318-trip/day21-7.jpg" />
 景色还不错
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-8.jpg" />
+<img src="./img/318-trip/day21-8.jpg"  alt="./img/318-trip/day21-8.jpg" />
 找到金子了!!!!!
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-9.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-9.jpg" />
+<img src="./img/318-trip/day21-9.jpg"  alt="./img/318-trip/day21-9.jpg" />
 管他拉萨在哪,淘金子先
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-10.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-10.jpg" />
+<img src="./img/318-trip/day21-10.jpg"  alt="./img/318-trip/day21-10.jpg" />
 哈哈,别忙,我来检测一下是不是金子
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day21-11.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day21-11.jpg" />
+<img src="./img/318-trip/day21-11.jpg"  alt="./img/318-trip/day21-11.jpg" />
 哎,为了淘金子浪费了看鲁郎美景的时间,天都黑了,后面的是雪山
 </p>
 
@@ -1391,59 +1391,59 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day22-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-1.jpg" />
+<p><img src="./img/318-trip/day22-1.jpg"  alt="./img/318-trip/day22-1.jpg" />
 今天是难得的好天气
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-2.jpg" />
+<img src="./img/318-trip/day22-2.jpg"  alt="./img/318-trip/day22-2.jpg" />
 鲁郎的景色像极了xj
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-3.jpg" />
+<img src="./img/318-trip/day22-3.jpg"  alt="./img/318-trip/day22-3.jpg" />
 南迦巴瓦雪山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-4.jpg" />
+<img src="./img/318-trip/day22-4.jpg"  alt="./img/318-trip/day22-4.jpg" />
 色季拉山
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-5.jpg" />
+<img src="./img/318-trip/day22-5.jpg"  alt="./img/318-trip/day22-5.jpg" />
 香港的同胞
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-6.jpg" />
+<img src="./img/318-trip/day22-6.jpg"  alt="./img/318-trip/day22-6.jpg" />
 兄弟是这样练成的
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-7.jpg" />
+<img src="./img/318-trip/day22-7.jpg"  alt="./img/318-trip/day22-7.jpg" />
 哑口的小花,只有纯洁
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-8.jpg" />
+<img src="./img/318-trip/day22-8.jpg"  alt="./img/318-trip/day22-8.jpg" />
 哑口的哈达
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-9.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-9.jpg" />
+<img src="./img/318-trip/day22-9.jpg"  alt="./img/318-trip/day22-9.jpg" />
 上帝保佑我们的午餐啊
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-10.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-10.jpg" />
+<img src="./img/318-trip/day22-10.jpg"  alt="./img/318-trip/day22-10.jpg" />
 竟然遇到了土哈油田的新疆老乡,那个热情啊,给我们西瓜,哈密瓜,牛奶,走的时候还给我们留烟,现在想想心头还是热得,还是新疆人好阿
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-11.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-11.jpg" />
+<img src="./img/318-trip/day22-11.jpg"  alt="./img/318-trip/day22-11.jpg" />
 我吹
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-12.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-12.jpg" />
+<img src="./img/318-trip/day22-12.jpg"  alt="./img/318-trip/day22-12.jpg" />
 遇见很美的尼洋曲
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-13.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-13.jpg" />
+<img src="./img/318-trip/day22-13.jpg"  alt="./img/318-trip/day22-13.jpg" />
 尼洋曲
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day22-14.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day22-14.jpg" />
+<img src="./img/318-trip/day22-14.jpg"  alt="./img/318-trip/day22-14.jpg" />
 千年古柏,骑车的门票又免了,真好
 </p>
 
@@ -1478,19 +1478,19 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day23-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day23-1.jpg" />
+<p><img src="./img/318-trip/day23-1.jpg"  alt="./img/318-trip/day23-1.jpg" />
 清澈见底的尼洋曲
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day23-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day23-2.jpg" />
+<img src="./img/318-trip/day23-2.jpg"  alt="./img/318-trip/day23-2.jpg" />
 下水了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day23-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day23-3.jpg" />
+<img src="./img/318-trip/day23-3.jpg"  alt="./img/318-trip/day23-3.jpg" />
 儿时最喜欢看的彩虹
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day23-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day23-4.jpg" />
+<img src="./img/318-trip/day23-4.jpg"  alt="./img/318-trip/day23-4.jpg" />
 千年古堡
 </p>
 
@@ -1525,31 +1525,31 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day24-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day24-1.jpg" />
+<p><img src="./img/318-trip/day24-1.jpg"  alt="./img/318-trip/day24-1.jpg" />
 玛瑙般的尼洋曲
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day24-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day24-2.jpg" />
+<img src="./img/318-trip/day24-2.jpg"  alt="./img/318-trip/day24-2.jpg" />
 玛瑙般的尼洋曲
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day24-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day24-3.jpg" />
+<img src="./img/318-trip/day24-3.jpg"  alt="./img/318-trip/day24-3.jpg" />
 太美了,没心情骑车了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day24-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day24-4.jpg" />
+<img src="./img/318-trip/day24-4.jpg"  alt="./img/318-trip/day24-4.jpg" />
 每天第二幸福的时候,第一幸福是晚饭时间
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day24-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day24-5.jpg" />
+<img src="./img/318-trip/day24-5.jpg"  alt="./img/318-trip/day24-5.jpg" />
 我们的最爱-军用红烧肉罐头
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day24-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day24-6.jpg" />
+<img src="./img/318-trip/day24-6.jpg"  alt="./img/318-trip/day24-6.jpg" />
 肚子饿了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day24-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day24-7.jpg" />
+<img src="./img/318-trip/day24-7.jpg"  alt="./img/318-trip/day24-7.jpg" />
 单车
 </p>
 </div>
@@ -1583,31 +1583,31 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day25-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day25-1.jpg" />
+<p><img src="./img/318-trip/day25-1.jpg"  alt="./img/318-trip/day25-1.jpg" />
 看到了藏羚羊
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day25-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day25-2.jpg" />
+<img src="./img/318-trip/day25-2.jpg"  alt="./img/318-trip/day25-2.jpg" />
 骑到了尼洋曲的源头
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day25-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day25-3.jpg" />
+<img src="./img/318-trip/day25-3.jpg"  alt="./img/318-trip/day25-3.jpg" />
 米拉山口-海拔5013米-这次最高的哑口
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day25-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day25-4.jpg" />
+<img src="./img/318-trip/day25-4.jpg"  alt="./img/318-trip/day25-4.jpg" />
 爬山的生活结束了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day25-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day25-5.jpg" />
+<img src="./img/318-trip/day25-5.jpg"  alt="./img/318-trip/day25-5.jpg" />
 卖虫草的康巴汉子-他的手机可是nokia的顶极
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day25-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day25-6.jpg" />
+<img src="./img/318-trip/day25-6.jpg"  alt="./img/318-trip/day25-6.jpg" />
 没有言语了,后面油画般质感的云彩
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day25-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day25-7.jpg" />
+<img src="./img/318-trip/day25-7.jpg"  alt="./img/318-trip/day25-7.jpg" />
 我叫的黄花菜
 </p>
 </div>
@@ -1641,71 +1641,71 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day26-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day26-1.jpg" />
+<p><img src="./img/318-trip/day26-1.jpg"  alt="./img/318-trip/day26-1.jpg" />
 松赞干布出生地
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day26-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day26-2.jpg" />
+<img src="./img/318-trip/day26-2.jpg"  alt="./img/318-trip/day26-2.jpg" />
 远望布达拉宫
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day26-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day26-3.jpg" />
+<img src="./img/318-trip/day26-3.jpg"  alt="./img/318-trip/day26-3.jpg" />
 布达拉宫前
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-1.jpg" />
+<img src="./img/318-trip/day27-1.jpg"  alt="./img/318-trip/day27-1.jpg" />
 布宫前
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-2.jpg" />
+<img src="./img/318-trip/day27-2.jpg"  alt="./img/318-trip/day27-2.jpg" />
 布宫前
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-4.jpg" />
+<img src="./img/318-trip/day27-4.jpg"  alt="./img/318-trip/day27-4.jpg" />
 兄弟们
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-5.jpg" />
+<img src="./img/318-trip/day27-5.jpg"  alt="./img/318-trip/day27-5.jpg" />
 八角街
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-6.jpg" />
+<img src="./img/318-trip/day27-6.jpg"  alt="./img/318-trip/day27-6.jpg" />
 玛吉阿米
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-7.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-7.jpg" />
+<img src="./img/318-trip/day27-7.jpg"  alt="./img/318-trip/day27-7.jpg" />
 孤独一翅的炸鸡店
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-8.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-8.jpg" />
+<img src="./img/318-trip/day27-8.jpg"  alt="./img/318-trip/day27-8.jpg" />
 大昭寺
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-9.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-9.jpg" />
+<img src="./img/318-trip/day27-9.jpg"  alt="./img/318-trip/day27-9.jpg" />
 玛吉阿米
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-10.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-10.jpg" />
+<img src="./img/318-trip/day27-10.jpg"  alt="./img/318-trip/day27-10.jpg" />
 藏白酒
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-11.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-11.jpg" />
+<img src="./img/318-trip/day27-11.jpg"  alt="./img/318-trip/day27-11.jpg" />
 很多好吃的
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day27-12.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day27-12.jpg" />
+<img src="./img/318-trip/day27-12.jpg"  alt="./img/318-trip/day27-12.jpg" />
 又遇见了新疆老乡,在那边开吧,很热情
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day30-1.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day30-1.jpg" />
+<img src="./img/318-trip/day30-1.jpg"  alt="./img/318-trip/day30-1.jpg" />
 静默的拉萨站
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day30-2.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day30-2.jpg" />
+<img src="./img/318-trip/day30-2.jpg"  alt="./img/318-trip/day30-2.jpg" />
 我们住的小店,暮野,认识了很多朋友
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day30-3.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day30-3.jpg" />
+<img src="./img/318-trip/day30-3.jpg"  alt="./img/318-trip/day30-3.jpg" />
 暮野
 </p>
 </div>
@@ -1738,15 +1738,15 @@ Date  : 2xxx-07-08 ~ 2xxx-08-10
 </li>
 </ul>
 
-<p><img src="http://leishi.public.iastate.edu/images/318-trip/day30-4.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day30-4.jpg" />
+<p><img src="./img/318-trip/day30-4.jpg"  alt="./img/318-trip/day30-4.jpg" />
 是离开的时候了
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day30-5.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day30-5.jpg" />
+<img src="./img/318-trip/day30-5.jpg"  alt="./img/318-trip/day30-5.jpg" />
 透过窗外,有些不舍
 </p>
 <p>
-<img src="http://leishi.public.iastate.edu/images/318-trip/day30-6.jpg"  alt="http://leishi.public.iastate.edu/images/318-trip/day30-6.jpg" />
+<img src="./img/318-trip/day30-6.jpg"  alt="./img/318-trip/day30-6.jpg" />
 Back
 </p>
 

@@ -12,10 +12,10 @@ layout: page
 
   <span class="primary">
     <strong>石 磊  Lei Shi</strong>
-    Ph.D. Student <br/>
-    <a href="http://www.aere.iastate.edu/">Department of Aerospace Engineering </a> <br/>
-    <a href="http://www.cfdc.iastate.edu/">Computational Fluid Dynamics Center </a> <br/>
-    <a href="http://www.iastate.edu/">The University of Kansas</a> <br/>
+    Ph.D. Candidate <br/>
+    <a href="http://www.ae.engr.ku.edu">Department of Aerospace Engineering </a> <br/>
+    <a href="http://www.ae.engr.ku.edu/">Computational Fluid Dynamics Center </a> <br/>
+    <a href="http://www.ku.edu/">The University of Kansas</a> <br/>
     <hr>
     Room 1112 Learned Hall<br/>
     Lawrence, KS 66045<br/>
