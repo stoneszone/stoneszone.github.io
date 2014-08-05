@@ -2,6 +2,27 @@
 layout: page
 toc: true
 ---
+## Output-based adaptation for the CPR method
+### Dual-consistent discretization of the CPR method
+{% assign image_size='middle' %}
+{% assign image_folder = 'adjoint' %}
+{% assign number_of_images = 10 %}
+{% include amc/make_gallery %}
+
+## Adjoint-based h-adaptation for the CPR method
+### Isotropic h-adaptation for the subsonic flow over the NACA0012 airfoil
+{% assign image_size='middle' %}
+{% assign image_folder = 'h-adapt-naca-inv-sub' %}
+{% assign number_of_images = 9 %}
+{% include amc/make_gallery %}
+
+### Isotropic h-adaptation for the laminar flow over the NACA0012 airfoil
+{% assign image_size='middle' %}
+{% assign image_folder = 'h-adapt-naca-vis-sub' %}
+{% assign number_of_images = 7 %}
+{% include amc/make_gallery %}
+
+
 ## High-order hybrid PNPM-CPR framework
 ### PNPM-CPR method
 {% assign image_size='middle' %}
@@ -9,25 +30,18 @@ toc: true
 {% assign number_of_images = 2 %}
 {% include amc/make_gallery %}
 
-### Viscous flow over a cylinder
+### Laminar flow over a cylinder using the PNPM-CPR method
+<img style="display: block; margin: 0 auto;" width="400" height="240" align="middle" src="/img/cylinder/cylinder-p2p3.gif">
 {% assign image_size='middle' %}
 {% assign image_folder = 'cylinder' %}
 {% assign number_of_images = 5 %}
 {% include amc/make_gallery %}
-<iframe style="padding:0.5em 0.3em;margin-left:auto;margin-right:auto;display:block;align:center;clear:both;" width="320px" height="240px" src="/img/cylinder/cylinder-p2p3.gif" frameborder="0">  </iframe>
 
-### Viscous flow over the NACA-0012 airfoil
+
+### Viscous flow over the NACA-0012 airfoil using the PNPM-CPR method
 {% assign image_size='middle' %}
 {% assign image_folder = 'pnpm-naca12' %}
 {% assign number_of_images = 5 %}
-{% include amc/make_gallery %}
-
-
-### Output-based adaptation of the CPR method
-#### Dual-consistent discretization of the CPR method
-{% assign image_size='middle' %}
-{% assign image_folder = 'adjoint' %}
-{% assign number_of_images = 2 %}
 {% include amc/make_gallery %}
 
 
