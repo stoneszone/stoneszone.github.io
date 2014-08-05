@@ -14,7 +14,7 @@ toc: true
 {% assign image_folder = 'cylinder' %}
 {% assign number_of_images = 5 %}
 {% include amc/make_gallery %}
-<iframe style="padding:0.5em 0.3em;margin-left:auto;margin-right:auto;display:block;align:center;clear:both;" title="YouTube video player" width="320" height="240" src="/img/cylinder/cylinder-p2p3.gif" frameborder="0">  </iframe>
+<iframe style="padding:0.5em 0.3em;margin-left:auto;margin-right:auto;display:block;align:center;clear:both;" width="320px" height="240px" src="/img/cylinder/cylinder-p2p3.gif" frameborder="0">  </iframe>
 
 ### Viscous flow over the NACA-0012 airfoil
 {% assign image_size='middle' %}
@@ -23,14 +23,13 @@ toc: true
 {% include amc/make_gallery %}
 
 
-### Output-based adaptation of CPR method
-#### Dual-consistent discretization of CPR method
+### Output-based adaptation of the CPR method
+#### Dual-consistent discretization of the CPR method
 {% assign image_size='middle' %}
 {% assign image_folder = 'adjoint' %}
 {% assign number_of_images = 2 %}
 {% include amc/make_gallery %}
 
-#### Continuous adjoint solver using CPR method
 
 ## Internal Aerodynamics
 {% assign image_size='middle' %}
