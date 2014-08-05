@@ -2,7 +2,7 @@
 layout: page
 toc: true
 ---
-## High-order hybrid finite element/finite volume PNPM-CPR framework
+## High-order hybrid PNPM-CPR framework
 ### PNPM-CPR method
 {% assign image_size='middle' %}
 {% assign image_folder = 'pnpm-cpr' %}
@@ -12,8 +12,9 @@ toc: true
 ### Viscous flow over a cylinder
 {% assign image_size='middle' %}
 {% assign image_folder = 'cylinder' %}
-{% assign number_of_images = 6 %}
+{% assign number_of_images = 5 %}
 {% include amc/make_gallery %}
+<iframe style="padding:0.5em 0.3em;margin-left:auto;margin-right:auto;display:block;align:center;clear:both;" title="YouTube video player" width="480" height="120" src="./img/cylinder/cylinder-p2p3.gif" frameborder="0">  </iframe>
 
 ### Viscous flow over the NACA-0012 airfoil
 {% assign image_size='middle' %}
