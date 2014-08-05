@@ -13,13 +13,25 @@ toc: true
 ### Isotropic h-adaptation for the subsonic flow over the NACA0012 airfoil
 {% assign image_size='middle' %}
 {% assign image_folder = 'h-adapt-naca-inv-sub' %}
-{% assign number_of_images = 9 %}
+{% assign number_of_images = 10 %}
 {% include amc/make_gallery %}
 
 ### Isotropic h-adaptation for the laminar flow over the NACA0012 airfoil
 {% assign image_size='middle' %}
 {% assign image_folder = 'h-adapt-naca-vis-sub' %}
-{% assign number_of_images = 7 %}
+{% assign number_of_images = 9 %}
+{% include amc/make_gallery %}
+
+### Anisotropic h-adaptation for the laminar flow over the NACA0012 airfoil
+{% assign image_size='middle' %}
+{% assign image_folder = 'h-adapt-naca-vis-sub-aniso' %}
+{% assign number_of_images = 4 %}
+{% include amc/make_gallery %}
+
+### hp-adaptation for the CPR method
+{% assign image_size='middle' %}
+{% assign image_folder = 'hp-adapt' %}
+{% assign number_of_images = 6 %}
 {% include amc/make_gallery %}
 
 
@@ -27,7 +39,7 @@ toc: true
 ### PNPM-CPR method
 {% assign image_size='middle' %}
 {% assign image_folder = 'pnpm-cpr' %}
-{% assign number_of_images = 2 %}
+{% assign number_of_images = 3 %}
 {% include amc/make_gallery %}
 
 ### Laminar flow over a cylinder using the PNPM-CPR method
