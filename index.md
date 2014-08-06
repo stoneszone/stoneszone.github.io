@@ -20,8 +20,8 @@ layout: page
     Room 1112 Learned Hall<br/>
     Lawrence, KS 66045<br/>
     Email:
-    <a href="mailto:leishi@iastate.edu?Subject=Hello%20again">
-      leishi at iastate dot edu
+    <a href="mailto:lshi@ku.edu?Subject=Hello%20again">
+      lshi at ku dot edu
     </a>
     <hr>
     "No human investigation can be called real science if it cannot be demonstrated mathematically."<br/>
