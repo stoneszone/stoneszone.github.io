@@ -12,7 +12,6 @@ layout: page
 
   <span class="primary">
     <strong>石 磊  Lei Shi</strong>
-    <br/>
     <a href="http://www.ae.engr.ku.edu">Department of Aerospace Engineering </a> <br/>
     <a href="http://www.ae.engr.ku.edu/">Computational Fluid Dynamics Center </a> <br/>
     <a href="http://www.ku.edu/">The University of Kansas</a> <br/>
