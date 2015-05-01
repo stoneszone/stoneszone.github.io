@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## Education
-* 2012-Now, Ph.D. Student, Aerospace Engineering, The University of Kansas, US
+* 2012-2014, Ph.D., Aerospace Engineering, The University of Kansas, US
 * 2011-2012, Aerospace Engineering, Iowa State University, US
 * 2009-2011, Aerospace Engineering, Old Dominion University, US
 * 2003-2009, Ph.D., Aerospace Propulsion Theory & Engineering, Nanjing University of Aeronautics & Astronautics, China
