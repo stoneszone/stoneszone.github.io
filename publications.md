@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-* <u>L. Shi</u>, Z.J. Wang, “Adjoint-based Error Estimation and Mesh Adaptation for the Correction Procedure via Reconstruction Method”, Under review for the Journal of Computational Physics, 2014
+* <u>L. Shi</u>, Z.J. Wang, “Adjoint-based Error Estimation and Mesh Adaptation for the Correction Procedure via Reconstruction Method”, Journal of Computational Physics 295, 261-284, 2015
+* <u>L. Shi</u>, Z.J. Wang, "Adjoint-based Adaptation for the Correction Procedure via Reconstruction Method on Hybrid Meshes" (AIAA 2015-1740), 53rd AIAA Aerospace Sciences Meeting, 2015
 * <u>L. Shi</u>, Z.J. Wang, “Adjoint-based Anisotropic Mesh Adaptation for the Correction Procedure via Reconstruction Method”, Eighth International Conference on Computational Fluid Dynamics,  ICCFD8-2014-0096, 2014
 * <u>L. Shi</u>, Z.J. Wang, L.P. Zhang, Wei Liu, and Song Fu, “A PNPM-CPR Framework for Hyperbolic Conservation Laws”, Journal of Scientific Computing, pages 1-27, 2014
 * <u>L. Shi</u> and Z.J. Wang, “Adjoint-based Anisotropic Mesh Adaptation for the CPR Method”, AIAA Paper 2013-2869, 2013
